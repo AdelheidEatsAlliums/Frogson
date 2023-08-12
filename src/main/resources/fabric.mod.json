@@ -6,7 +6,7 @@
 	"description": "A mod that adds more woods and ores for tools and armor.",
 	"authors": ["AdelheidEatsAlliums, Periwinkql"],
 	"contact": {
-		"repo": "https://github.com/AdelheidEatsAlliums/------"
+		"repo": "https://github.com/AdelheidEatsAlliums/Frogson"
 	},
 	"license": "All-Rights-Reserved",
 	"icon": "assets/frogson/icon.png",
@@ -19,9 +19,13 @@
 			"net.adelheideatsalliums.frogson.Frogson"
 		]
 	},
+	"mixins": [
+		"frogson.mixins.json"
+	],
 	"depends": {
 		"fabricloader": ">=${loader_version}",
 		"fabric": "*",
-		"minecraft": "${minecraft_version}"
+		"minecraft": "1.20.2-alpha.23.32.a",
+		"java": ">=17"
 	}
 }
