@@ -129,7 +129,16 @@ public class ItemGroupPlacement {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonMaterials.RAINBOW_IRON_NUGGET);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(FrogsonMaterials.RAINBOW_IRON_ORE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(FrogsonMaterials.RAW_RAINBOW_IRON_BLOCK);});
+
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonMaterials.MALACHITE_BLOCK, FrogsonMaterials.RAINBOW_IRON_BLOCK);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonMaterials.RAINBOW_IRON_BLOCK, FrogsonMaterials.ENDENSKIAL_BLOCK);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonMaterials.ENDENSKIAL_BLOCK, FrogsonIngredients.ENDLIESKINDAEL_BLOCK);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonIngredients.ENDLIESKINDAEL_BLOCK, FrogsonIngredients.QUANTENDIUM_BLOCK);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonIngredients.QUANTENDIUM_BLOCK, FrogsonIngredients.TENTILIMUNELIESK_BLOCK);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonIngredients.TENTILIMUNELIESK_BLOCK, FrogsonIngredients.MALACHITE_ROSE_BLOCK);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonIngredients.MALACHITE_ROSE_BLOCK, PackedBlocks.PACKED_SHELLS_BLOCK);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(PackedBlocks.PACKED_SHELLS_BLOCK, FrogsonMaterials.ANDESITE_PERIWINKLE_BLOCK);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonMaterials.ANDESITE_PERIWINKLE_BLOCK, TonslanBlocks.AQUAFELDMARINE_BLOCK);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(GreaskBlocks.GREASK);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(GreaskBlocks.GREASK_BLOCK);});
@@ -154,96 +163,89 @@ public class ItemGroupPlacement {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonIngredients.TENTILIMUNELIESK_PAPER);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonIngredients.TENTILIMUNELIESK_POWDER);});
 
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_SWORD, RainbowIronSet.RAINBOW_IRON_SWORD);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteSet.MALACHITE_SHOVEL, RainbowIronSet.RAINBOW_IRON_SHOVEL);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteSet.MALACHITE_PICKAXE, RainbowIronSet.RAINBOW_IRON_PICKAXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_AXE, RainbowIronSet.RAINBOW_IRON_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteSet.MALACHITE_AXE, RainbowIronSet.RAINBOW_IRON_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteSet.MALACHITE_HOE, RainbowIronSet.RAINBOW_IRON_HOE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_HELMET, RainbowIronSet.RAINBOW_IRON_HELMET);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_CHESTPLATE, RainbowIronSet.RAINBOW_IRON_CHESTPLATE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_LEGGINGS, RainbowIronSet.RAINBOW_IRON_LEGGINGS);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_BOOTS, RainbowIronSet.RAINBOW_IRON_BOOTS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(Items.DIAMOND_SHOVEL, AmethystSet.AMETHYST_SHOVEL);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(AmethystSet.AMETHYST_SHOVEL, AmethystSet.AMETHYST_PICKAXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(AmethystSet.AMETHYST_PICKAXE, AmethystSet.AMETHYST_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(AmethystSet.AMETHYST_AXE, AmethystSet.AMETHYST_HOE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.DIAMOND_SWORD, AmethystSet.AMETHYST_SWORD);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.DIAMOND_AXE, AmethystSet.AMETHYST_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.DIAMOND_BOOTS, AmethystSet.AMETHYST_HELMET);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_HELMET, AmethystSet.AMETHYST_CHESTPLATE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_CHESTPLATE, AmethystSet.AMETHYST_LEGGINGS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_LEGGINGS, AmethystSet.AMETHYST_BOOTS);});
 
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(AmethystSet.AMETHYST_HOE, RoseQuartzSet.ROSE_QUARTZ_SHOVEL);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_SHOVEL, RoseQuartzSet.ROSE_QUARTZ_PICKAXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_PICKAXE, RoseQuartzSet.ROSE_QUARTZ_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_AXE, RoseQuartzSet.ROSE_QUARTZ_HOE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_SWORD, RoseQuartzSet.ROSE_QUARTZ_SWORD);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(AmethystSet.AMETHYST_SHOVEL, RoseQuartzSet.ROSE_QUARTZ_SHOVEL);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(AmethystSet.AMETHYST_PICKAXE, RoseQuartzSet.ROSE_QUARTZ_PICKAXE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_AXE, RoseQuartzSet.ROSE_QUARTZ_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(AmethystSet.AMETHYST_AXE, RoseQuartzSet.ROSE_QUARTZ_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(AmethystSet.AMETHYST_HOE, RoseQuartzSet.ROSE_QUARTZ_HOE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_HELMET, RoseQuartzSet.ROSE_QUARTZ_HELMET);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_CHESTPLATE, RoseQuartzSet.ROSE_QUARTZ_CHESTPLATE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_LEGGINGS, RoseQuartzSet.ROSE_QUARTZ_LEGGINGS);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_BOOTS, RoseQuartzSet.ROSE_QUARTZ_BOOTS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(AmethystSet.AMETHYST_BOOTS, RoseQuartzSet.ROSE_QUARTZ_HELMET);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_HELMET, RoseQuartzSet.ROSE_QUARTZ_CHESTPLATE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_CHESTPLATE, RoseQuartzSet.ROSE_QUARTZ_LEGGINGS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_LEGGINGS, RoseQuartzSet.ROSE_QUARTZ_BOOTS);});
 
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_HOE, MalachiteSet.MALACHITE_SHOVEL);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteSet.MALACHITE_SHOVEL, MalachiteSet.MALACHITE_PICKAXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteSet.MALACHITE_PICKAXE, MalachiteSet.MALACHITE_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteSet.MALACHITE_AXE, MalachiteSet.MALACHITE_HOE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_SWORD, MalachiteSet.MALACHITE_SWORD);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_SHOVEL, MalachiteSet.MALACHITE_SHOVEL);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_PICKAXE, MalachiteSet.MALACHITE_PICKAXE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_AXE, MalachiteSet.MALACHITE_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_AXE, MalachiteSet.MALACHITE_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_HOE, MalachiteSet.MALACHITE_HOE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_HELMET, MalachiteSet.MALACHITE_HELMET);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_CHESTPLATE, MalachiteSet.MALACHITE_CHESTPLATE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_LEGGINGS, MalachiteSet.MALACHITE_LEGGINGS);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_BOOTS, MalachiteSet.MALACHITE_BOOTS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RoseQuartzSet.ROSE_QUARTZ_BOOTS, MalachiteSet.MALACHITE_HELMET);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_HELMET, MalachiteSet.MALACHITE_CHESTPLATE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_CHESTPLATE, MalachiteSet.MALACHITE_LEGGINGS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_LEGGINGS, MalachiteSet.MALACHITE_BOOTS);});
+
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteSet.MALACHITE_HOE, RainbowIronSet.RAINBOW_IRON_SHOVEL);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_SHOVEL, RainbowIronSet.RAINBOW_IRON_PICKAXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_PICKAXE, RainbowIronSet.RAINBOW_IRON_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_AXE, RainbowIronSet.RAINBOW_IRON_HOE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_SWORD, RainbowIronSet.RAINBOW_IRON_SWORD);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_AXE, RainbowIronSet.RAINBOW_IRON_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteSet.MALACHITE_BOOTS, RainbowIronSet.RAINBOW_IRON_HELMET);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_HELMET, RainbowIronSet.RAINBOW_IRON_CHESTPLATE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_CHESTPLATE, RainbowIronSet.RAINBOW_IRON_LEGGINGS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_LEGGINGS, RainbowIronSet.RAINBOW_IRON_BOOTS);});
+
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(Items.NETHERITE_SHOVEL, TentilimunelieskSet.TENTILIMUNELIESK_SHOVEL);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_SHOVEL, TentilimunelieskSet.TENTILIMUNELIESK_PICKAXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_PICKAXE, TentilimunelieskSet.TENTILIMUNELIESK_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_AXE, TentilimunelieskSet.TENTILIMUNELIESK_HOE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.NETHERITE_SWORD, TentilimunelieskSet.TENTILIMUNELIESK_SWORD);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.NETHERITE_AXE, TentilimunelieskSet.TENTILIMUNELIESK_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.NETHERITE_BOOTS, TentilimunelieskSet.TENTILIMUNELIESK_HELMET);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_HELMET, TentilimunelieskSet.TENTILIMUNELIESK_CHESTPLATE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_CHESTPLATE, TentilimunelieskSet.TENTILIMUNELIESK_LEGGINGS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_LEGGINGS, TentilimunelieskSet.TENTILIMUNELIESK_BOOTS);});
+;
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_HOE, MalachiteRoseSet.MALACHHITE_ROSE_SHOVEL);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteRoseSet.MALACHHITE_ROSE_SHOVEL, MalachiteRoseSet.MALACHHITE_ROSE_PICKAXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteRoseSet.MALACHHITE_ROSE_PICKAXE, MalachiteRoseSet.MALACHHITE_ROSE_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(MalachiteRoseSet.MALACHHITE_ROSE_AXE, MalachiteRoseSet.MALACHHITE_ROSE_HOE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_SWORD, MalachiteRoseSet.MALACHHITE_ROSE_SWORD);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_AXE, MalachiteRoseSet.MALACHHITE_ROSE_AXE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_BOOTS, MalachiteRoseSet.MALACHHITE_ROSE_HELMET);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteRoseSet.MALACHHITE_ROSE_HELMET, MalachiteRoseSet.MALACHHITE_ROSE_CHESTPLATE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteRoseSet.MALACHHITE_ROSE_CHESTPLATE, MalachiteRoseSet.MALACHHITE_ROSE_LEGGINGS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(MalachiteRoseSet.MALACHHITE_ROSE_LEGGINGS, MalachiteRoseSet.MALACHHITE_ROSE_BOOTS);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonIngredients.QUANTENDIUM_INGOT);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonIngredients.QUANTENDIUM_NUGGET);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonIngredients.QUANTENDIUM_PLATE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonIngredients.QUANTENDIUM_ROD);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonIngredients.MALACHITE_ROSE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonIngredients.TENTILIMUNELIESK_BLOCK, FrogsonIngredients.MALACHITE_ROSE_BLOCK);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonIngredients.ENDLIESKINDAEL_BLOCK, FrogsonIngredients.QUANTENDIUM_BLOCK);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonIngredients.TESSKELTINIAL_EYE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonIngredients.QUANTENDIUM_BLOCK, FrogsonIngredients.TENTILIMUNELIESK_BLOCK);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonMaterials.ENDENSKIAL_BLOCK, FrogsonIngredients.ENDLIESKINDAEL_BLOCK);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonMaterials.RAW_ENDENSKIAL);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonMaterials.ENDENSKIAL_INGOT);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonMaterials.ENDENSKIAL_NUGGET);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(FrogsonMaterials.ENDENSKIAL_ORE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(FrogsonMaterials.RAW_ENDENSKIAL_BLOCK);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonMaterials.RAINBOW_IRON_BLOCK, FrogsonMaterials.ENDENSKIAL_BLOCK);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonMaterials.OBSIDIAN_ROSE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(FrogsonMaterials.OBSIDIAN_ROSE);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(FrogsonMaterials.ANDESITE_PERIWINKLE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(FrogsonMaterials.ANDESITE_PERIWINKLE_BLOCK);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(PackedBlocks.PACKED_SHELLS_BLOCK, FrogsonMaterials.ANDESITE_PERIWINKLE_BLOCK);});
-
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.DIAMOND_SWORD, AmethystSet.AMETHYST_SWORD);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(Items.DIAMOND_SHOVEL, AmethystSet.AMETHYST_SHOVEL);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(Items.DIAMOND_PICKAXE, AmethystSet.AMETHYST_PICKAXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.DIAMOND_AXE, AmethystSet.AMETHYST_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(Items.DIAMOND_AXE, AmethystSet.AMETHYST_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(Items.DIAMOND_HOE, AmethystSet.AMETHYST_HOE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.DIAMOND_HELMET, AmethystSet.AMETHYST_HELMET);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.DIAMOND_CHESTPLATE, AmethystSet.AMETHYST_CHESTPLATE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.DIAMOND_LEGGINGS, AmethystSet.AMETHYST_LEGGINGS);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(Items.DIAMOND_BOOTS, AmethystSet.AMETHYST_BOOTS);});
-
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_SWORD, TentilimunelieskSet.TENTILIMUNELIESK_SWORD);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_SHOVEL, TentilimunelieskSet.TENTILIMUNELIESK_SHOVEL);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_PICKAXE, TentilimunelieskSet.TENTILIMUNELIESK_PICKAXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_AXE, TentilimunelieskSet.TENTILIMUNELIESK_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_AXE, TentilimunelieskSet.TENTILIMUNELIESK_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_HOE, TentilimunelieskSet.TENTILIMUNELIESK_HOE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_HELMET, TentilimunelieskSet.TENTILIMUNELIESK_HELMET);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_CHESTPLATE, TentilimunelieskSet.TENTILIMUNELIESK_CHESTPLATE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_LEGGINGS, TentilimunelieskSet.TENTILIMUNELIESK_LEGGINGS);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_BOOTS, TentilimunelieskSet.TENTILIMUNELIESK_BOOTS);});
-
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_SWORD, MalachiteRoseSet.MALACHHITE_ROSE_SWORD);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_SHOVEL, MalachiteRoseSet.MALACHHITE_ROSE_SHOVEL);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_PICKAXE, MalachiteRoseSet.MALACHHITE_ROSE_PICKAXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_PICKAXE, MalachiteRoseSet.MALACHHITE_ROSE_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_AXE, MalachiteRoseSet.MALACHHITE_ROSE_AXE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_AXE, MalachiteRoseSet.MALACHHITE_ROSE_HOE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_HELMET, MalachiteRoseSet.MALACHHITE_ROSE_HELMET);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_CHESTPLATE, MalachiteRoseSet.MALACHHITE_ROSE_CHESTPLATE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_LEGGINGS, MalachiteRoseSet.MALACHHITE_ROSE_LEGGINGS);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_BOOTS, MalachiteRoseSet.MALACHHITE_ROSE_BOOTS);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(CloudstoneBlocks.CLOUDSTONE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(Blocks.REINFORCED_DEEPSLATE, CloudstoneBlocks.CLOUDSTONE);});
@@ -251,11 +253,9 @@ public class ItemGroupPlacement {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(CloudstoneBlocks.COBBLECLOUDSTONE, CloudstoneBlocks.CLOUDSTONE_BRICKS);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(CloudstoneBlocks.CLOUDSTONE_BRICKS, CloudstoneBlocks.COBBLECLOUDSTONE_BRICKS);});
 
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.addAfter(FrogsonIngredients.MALACHITE_ROSE_BLOCK, PackedBlocks.PACKED_SHELLS_BLOCK);});
-
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FUNCTIONAL).register(content -> {content.add(DecorationBlocks.BOOK_STACK);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FUNCTIONAL).register(content -> {content.add(DecorationBlocks.DECORATED_PYRAMID);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FUNCTIONAL).register(content -> {content.add(DecorationBlocks.DECORATED_CASTLE);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FUNCTIONAL).register(content -> {content.addAfter(Blocks.DRAGON_EGG, DecorationBlocks.BOOK_STACK);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FUNCTIONAL).register(content -> {content.addAfter(DecorationBlocks.BOOK_STACK, DecorationBlocks.DECORATED_PYRAMID);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FUNCTIONAL).register(content -> {content.addAfter(DecorationBlocks.DECORATED_PYRAMID, DecorationBlocks.DECORATED_CASTLE);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FUNCTIONAL).register(content -> {content.addAfter(Items.PAINTING, Painteds.CANVAS);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FUNCTIONAL).register(content -> {content.addAfter(Painteds.CANVAS, Painteds.PAINTED_BUMPY_WINDS);});
@@ -325,7 +325,6 @@ public class ItemGroupPlacement {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(TonslanBlocks.AGARTUNS_LIGHT);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.add(TonslanBlocks.AQUAFELDMARINE_ORE);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {content.add(TonslanBlocks.AQUAFELDMARINE_BLOCK);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(content -> {content.add(TonslanItems.AQUAFELDMARINE);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.addAfter(Blocks.WARPED_FUNGUS, TonslanBlocks.LENELS_MUSHROOM);});
