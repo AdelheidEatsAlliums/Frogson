@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:norite_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:norite_rock",
+    "count": 4
+  }
+}

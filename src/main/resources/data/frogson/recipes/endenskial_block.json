@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:endenskial_ingot"
+    }
+  },
+  "result": {
+    "item": "frogson:endenskial_block"
+  }
+}

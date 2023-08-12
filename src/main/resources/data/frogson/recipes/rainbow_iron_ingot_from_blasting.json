@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "group": "rainbow_iron_ingot",
+  "ingredient": {
+    "item": "frogson:raw_rainbow_iron"
+  },
+  "result": "frogson:rainbow_iron_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}

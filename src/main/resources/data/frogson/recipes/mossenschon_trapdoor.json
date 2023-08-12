@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoor",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "frogson:mossenschon_planks"
+    }
+  },
+  "result": {
+    "item": "frogson:mossenschon_trapdoor",
+    "count": 3
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "frogson:block/left_open_desk" },
+    "facing=south": { "model": "frogson:block/left_open_desk", "y":  180},
+    "facing=west": { "model": "frogson:block/left_open_desk", "y":  270},
+    "facing=east": { "model": "frogson:block/left_open_desk", "y":  90}
+  }
+}

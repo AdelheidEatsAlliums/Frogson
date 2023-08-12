@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "frogson:block/agelistem_top",
+    "side": "frogson:block/agelistem_side"
+  }
+}

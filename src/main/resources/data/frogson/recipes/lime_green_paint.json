@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@@@",
+    "@#@",
+    "@!@"
+  ],
+  "key": {
+    "!": {
+      "item": "minecraft:bowl"
+    },
+    "@": {
+      "item": "minecraft:lime_dye"
+    },
+    "#": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "frogson:lime_green_paint"
+  },
+  "count": 8
+}

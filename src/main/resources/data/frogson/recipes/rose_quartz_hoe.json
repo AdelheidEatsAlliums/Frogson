@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "frogson:rose_quartz"
+    }
+  },
+  "result": {
+    "item": "frogson:rose_quartz_hoe"
+  }
+}

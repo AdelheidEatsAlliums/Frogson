@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "X#X",
+    "###",
+    "X#X"
+  ],
+  "result": {
+    "item": "frogson:canvas"
+  },
+  "show_notification": true
+}

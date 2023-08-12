@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:benitoite"
+    }
+  },
+  "result": {
+    "item": "frogson:benitoite_block"
+  }
+}

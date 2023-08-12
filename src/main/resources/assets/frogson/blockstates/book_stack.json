@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "level=1": {
+      "model": "frogson:block/book_stack"
+    },
+    "level=2": {
+      "model": "frogson:block/book_stack2"
+    },
+    "level=3": {
+      "model": "frogson:block/book_stack3"
+    },
+    "level=4": {
+      "model": "frogson:block/book_stack4"
+    }
+  }
+}

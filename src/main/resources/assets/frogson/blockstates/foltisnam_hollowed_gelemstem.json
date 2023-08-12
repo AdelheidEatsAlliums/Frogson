@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "frogson:block/foltisnam_hollowed_gelemstem" },
+    "facing=south": { "model": "frogson:block/foltisnam_hollowed_gelemstem", "y":  180},
+    "facing=west": { "model": "frogson:block/foltisnam_hollowed_gelemstem", "y":  270},
+    "facing=east": { "model": "frogson:block/foltisnam_hollowed_gelemstem", "y":  90}
+  }
+}

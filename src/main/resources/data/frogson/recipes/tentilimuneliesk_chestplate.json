@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "frogson:tentilimuneliesk_ingot"
+    }
+  },
+  "result": {
+    "item": "frogson:tentilimuneliesk_chestplate"
+  }
+}

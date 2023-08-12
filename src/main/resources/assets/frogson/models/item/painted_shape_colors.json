@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0":"frogson:item/painted_shape_colors_item"
+	}
+}

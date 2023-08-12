@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "frogson:emelstem"
+    }
+  },
+  "pattern": [
+    "##",
+	"##"
+  ],
+  "result": {
+    "count": 4,
+    "item": "frogson:emelstem_wood"
+  },
+  "show_notification": true
+}

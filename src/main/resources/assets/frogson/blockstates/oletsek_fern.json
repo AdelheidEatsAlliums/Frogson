@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "frogson:block/oletsek_fern"
+      },
+      {
+        "model": "frogson:block/oletsek_fern_1"
+      },
+      {
+        "model": "frogson:block/oletsek_fern_2"
+      },
+      {
+        "model": "frogson:block/oletsek_fern_3"
+      },
+      {
+        "model": "frogson:block/oletsek_fern_4"
+      }
+    ]
+  }
+}

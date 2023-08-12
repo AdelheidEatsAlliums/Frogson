@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "Y Y"
+  ],
+  "key": {
+    "X": {
+      "item": "frogson:malachite_rose"
+    },
+    "Y": {
+      "item": "frogson:quantendium_plate"
+    }
+  },
+  "result": {
+    "item": "frogson:malachite_rose_boots"
+  }
+}

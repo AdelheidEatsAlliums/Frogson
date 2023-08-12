@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "!$!",
+    "#@#",
+    "!$!"
+  ],
+  "key":
+  {
+    "!": {
+      "item": "minecraft:blaze_powder"
+    },
+    "@": {
+      "item": "minecraft:honeycomb"
+    },
+    "#": {
+      "item": "frogson:rose_quartz"
+    },
+    "$": {
+      "item": "frogson:greasknednum"
+    }
+  },
+  "result": {
+    "item": "frogson:endeliesk_crystal",
+    "count": 2
+  }
+}

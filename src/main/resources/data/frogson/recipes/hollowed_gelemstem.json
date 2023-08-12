@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "frogson:gelemstem"
+    }
+  },
+  "pattern": [
+    "###",
+	"# #",
+	"###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "frogson:hollowed_gelemstem"
+  },
+  "show_notification": true
+}

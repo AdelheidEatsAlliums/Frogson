@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoor",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "frogson:naschja_planks"
+    }
+  },
+  "result": {
+    "item": "frogson:naschja_trapdoor",
+    "count": 3
+  }
+}

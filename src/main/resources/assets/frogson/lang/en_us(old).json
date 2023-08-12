@@ -1,0 +1,496 @@
+{
+//item groups
+	"itemGroup.frogsonblocktab": "Frogson Blocks",
+	"itemGroup.frogsonitemtab": "Frogson Items",
+	"itemGroup.frogsonpaintedtab": "Frogson Painteds",
+
+//advancements
+	"advancements.frogson.root.title": "Frogson",
+	"advancements.frogson.root.description": "You have entered the world of Frogson.",
+
+
+//items
+	//foods
+	"item.frogson.poison_apple": "Poison Apple",
+	"item.frogson.green_apple": "Green Apple",
+	"item.frogson.yellow_apple": "Yellow Apple",
+
+	//ingots
+	"item.frogson.endenskial_ingot": "Endenskial Ingot",
+	"item.frogson.tentilimuneliesk_ingot": "Tentilimuneliesk Ingot",
+	"item.frogson.rainbow_iron_ingot": "Rainbow Iron Ingot",
+	"item.frogson.endlieskindael_ingot": "Endlieskindael Ingot",
+	"item.frogson.quantendium_ingot": "Quantendium Ingot",
+	"item.frogson.zirconium_ingot": "Zirconium Ingot",
+	"item.frogson.chromium_ingot": "Chromium Ingot",
+	"item.frogson.vanadium_ingot": "Vanadium Ingot",
+	"item.frogson.titanium_ingot": "Titanium Ingot",
+	"item.frogson.beryllium_ingot": "Beryllium Ingot",
+	"item.frogson.steel_ingot": "Steel Ingot",
+	"item.frogson.aluminium_ingot": "Aluminium Ingot",
+	"item.frogson.molybdenum_ingot": "Molybdenum Ingot",
+
+	//minerals
+	"item.frogson.endeliesk_crystal": "Endeliesk Crystal",
+	"item.frogson.amethyst": "Amethyst",
+	"item.frogson.malachite": "Malachite",
+	"item.frogson.malachite_rose": "Malachite Rose",
+	"item.frogson.rose_quartz": "Rose Quartz",
+	"item.frogson.aquafeldmarine": "Aquafeldmarine",
+	"item.frogson.white_opal": "White Opal",
+	"item.frogson.black_opal": "Black Opal",
+	"item.frogson.rutile": "Rutile",
+	"item.frogson.feldspar": "Feldspar",
+	"item.frogson.sapphire": "Sapphire",
+	"item.frogson.benitoite": "Benitoite",
+	"item.frogson.apatite": "Apatite",
+	"item.frogson.morganite": "Morganite",
+	"item.frogson.brookite": "Brookite",
+	"item.frogson.ruby": "Ruby",
+	"item.frogson.topaz": "Topaz",
+	"item.frogson.hematite": "Hematite",
+	"item.frogson.tanzanite": "Tanzanite",
+	"item.frogson.aquamarine": "Aquamarine",
+	"item.frogson.hyalite": "Hyalite",
+	"item.frogson.pseudobrookite": "Pseudobrookite",
+	"item.frogson.corundum": "Corundum",
+	"item.frogson.orthoclase": "Orthoclase",
+
+	//rocks
+	"item.frogson.greask": "Greask",
+	"item.frogson.serpentinite_rock": "Serpentinite Rock",
+	"item.frogson.slate_rock": "Slate Rock",
+	"item.frogson.llanite_rock": "Llanite Rock",
+	"item.frogson.komatiite_rock": "Komatiite Rock",
+	"item.frogson.leaverite_rock": "Leaverite Rock",
+	"item.frogson.skarn_rock": "Skarn Rock",
+	"item.frogson.norite_rock": "Norite Rock",
+	"item.frogson.perodotite_rock": "Perodotite Rock",
+	"item.frogson.andesite_periwinkle": "Andesite Periwinkle",
+
+	//raw metals
+	"item.frogson.raw_zirconium": "Raw Zirconium",
+	"item.frogson.raw_chromium": "Raw Chromium",
+	"item.frogson.raw_vanadium": "Raw Vanadium",
+	"item.frogson.raw_titanium": "Raw Titanium",
+	"item.frogson.raw_beryllium": "Raw Beryllium",
+	"item.frogson.raw_steel": "Raw Steel",
+	"item.frogson.raw_aluminium": "Raw Aluminium",
+	"item.frogson.raw_molybdenum": "Raw Molybdenum",
+	"item.frogson.raw_endenskial": "Raw Endenskial",
+	"item.frogson.raw_rainbow_iron": "Raw Rainbow Iron",
+
+	//nuggets
+	"item.frogson.quantendium_nugget": "Quantendium Nugget",
+	"item.frogson.tentilimuneliesk_nugget": "Tentilimuneliesk Nugget",
+
+	//plates
+	"item.frogson.quantendium_plate": "Quantendium Plate",
+
+	//rods
+	"item.frogson.quantendium_rod": "Quantendium Rod",
+
+	//powders
+	"item.frogson.tentilimuneliesk_powder": "Tentilimuneliesk Powder",
+
+	//papers
+	"item.frogson.tentilimuneliesk_paper": "Tentilimuneliesk Paper",
+
+	//eyes
+	"item.frogson.tesskeltinial_eye": "Tesskeltinial Eye",
+
+	//pearls
+	"item.frogson.endeliesk_pearl": "Endeliesk Pearl",
+
+	//stars
+	"item.frogson.magic_star": "Magic Star",
+
+	//orbs
+	"item.frogson.endenskial_orb": "Endenskial Orb",
+
+	//painting
+		//canvases
+	"block.frogson.canvas": "Canvas",
+
+	//tools
+	//tentilimuneliesk
+	"item.frogson.tentilimuneliesk_sword": "Tentilimuneliesk Sword",
+	"item.frogson.tentilimuneliesk_axe": "Tentilimuneliesk Axe",
+	"item.frogson.tentilimuneliesk_pickaxe": "Tentilimuneliesk Pickaxe",
+	"item.frogson.tentilimuneliesk_shovel": "Tentilimuneliesk Shovel",
+	"item.frogson.tentilimuneliesk_hoe": "Tentilimuneliesk Hoe",
+
+	//rainbow iron
+	"item.frogson.rainbow_iron_sword": "Rainbow Iron Sword",
+	"item.frogson.rainbow_iron_pickaxe": "Rainbow Iron Pickaxe",
+	"item.frogson.rainbow_iron_axe": "Rainbow Iron Axe",
+	"item.frogson.rainbow_iron_shovel": "Rainbow Iron Shovel",
+	"item.frogson.rainbow_iron_hoe": "Rainbow Iron Hoe",
+
+	//amethyst
+	"item.frogson.amethyst_sword": "Amethyst Sword",
+	"item.frogson.amethyst_pickaxe": "Amethyst Pickaxe",
+	"item.frogson.amethyst_axe": "Amethyst Axe",
+	"item.frogson.amethyst_shovel": "Amethyst Shovel",
+	"item.frogson.amethyst_hoe": "Amethyst Hoe",
+
+	//malachite
+	"item.frogson.malachite_sword": "Malachite Sword",
+	"item.frogson.malachite_pickaxe": "Malachite Pickaxe",
+	"item.frogson.malachite_axe": "Malachite Axe",
+	"item.frogson.malachite_shovel": "Malachite Shovel",
+	"item.frogson.malachite_hoe": "Malachite Hoe",
+
+	//malachite rose
+	"item.frogson.malachite_rose_sword": "Malachite Rose Sword",
+	"item.frogson.malachite_rose_pickaxe": "Malachite Rose Pickaxe",
+	"item.frogson.malachite_rose_axe": "Malachite Rose Axe",
+	"item.frogson.malachite_rose_shovel": "Malachite Rose Shovel",
+	"item.frogson.malachite_rose_hoe": "Malachite Rose Hoe",
+
+	//rose quartz
+	"item.frogson.rose_quartz_sword": "Rose Quartz Sword",
+	"item.frogson.rose_quartz_pickaxe": "Rose Quartz Pickaxe",
+	"item.frogson.rose_quartz_axe": "Rose Quartz Axe",
+	"item.frogson.rose_quartz_shovel": "Rose Quartz Shovel",
+	"item.frogson.rose_quartz_hoe": "Rose Quartz Hoe",
+
+	//armour
+	//tentilimuneliesk
+	"item.frogson.tentilimuneliesk_helmet": "Tentilimuneliesk Helmet",
+	"item.frogson.tentilimuneliesk_chestplate": "Tentilimuneliesk Chestplate",
+	"item.frogson.tentilimuneliesk_leggings": "Tentilimuneliesk Leggings",
+	"item.frogson.tentilimuneliesk_boots": "Tentilimuneliesk Boots",
+
+	//rainbow iron
+	"item.frogson.rainbow_iron_helmet": "Rainbow Iron Helmet",
+	"item.frogson.rainbow_iron_chestplate": "Rainbow Iron Chestplate",
+	"item.frogson.rainbow_iron_leggings": "Rainbow Iron Leggings",
+	"item.frogson.rainbow_iron_boots": "Rainbow Iron Boots",
+
+	//amethyst
+	"item.frogson.amethyst_helmet": "Amethyst Helmet",
+	"item.frogson.amethyst_chestplate": "Amethyst Chestplate",
+	"item.frogson.amethyst_leggings": "Amethyst Leggings",
+	"item.frogson.amethyst_boots": "Amethyst Boots",
+
+	//malachite
+	"item.frogson.malachite_helmet": "Malachite Helmet",
+	"item.frogson.malachite_chestplate": "Malachite Chestplate",
+	"item.frogson.malachite_leggings": "Malachite Leggings",
+	"item.frogson.malachite_boots": "Malachite Boots",
+
+	//malachite rose
+	"item.frogson.malachite_rose_helmet": "Malachite Rose Helmet",
+	"item.frogson.malachite_rose_chestplate": "Malachite Rose Chestplate",
+	"item.frogson.malachite_rose_leggings": "Malachite Rose Leggings",
+	"item.frogson.malachite_rose_boots": "Malachite Rose Boots",
+
+	//rose quartz
+	"item.frogson.rose_quartz_helmet": "Rose Quartz Helmet",
+	"item.frogson.rose_quartz_chestplate": "Rose Quartz Chestplate",
+	"item.frogson.rose_quartz_leggings": "Rose Quartz Leggings",
+	"item.frogson.rose_quartz_boots": "Rose Quartz Boots",
+
+		//paints
+	"item.frogson.black_paint": "Black Paint",
+	"item.frogson.blue_paint": "Blue Paint",
+	"item.frogson.brown_paint": "Brown Paint",
+	"item.frogson.cyan_paint": "Cyan Paint",
+	"item.frogson.gray_paint": "Gray Paint",
+	"item.frogson.green_paint": "Green Paint",
+	"item.frogson.light_blue_paint": "Light Blue Paint",
+	"item.frogson.light_gray_paint": "Light Gray Paint",
+	"item.frogson.lime_green_paint": "Lime Green Paint",
+	"item.frogson.magenta_paint": "Magenta Paint",
+	"item.frogson.orange_paint": "Orange Paint",
+	"item.frogson.pink_paint": "Pink Paint",
+	"item.frogson.purple_paint": "Purple Paint",
+	"item.frogson.red_paint": "Red Paint",
+	"item.frogson.yellow_paint": "Yellow Paint",
+	"item.frogson.white_paint": "White Paint",
+
+	//miscellaneous
+	"item.frogson.greasknednum": "Greasknednum",
+
+
+//blocks
+	//woods
+		//naschja
+	"block.frogson.naschja_planks": "Naschja Planks",
+	"block.frogson.naschja_wood": "Naschja Wood",
+	"block.frogson.naschja_leaves": "Naschja Leaves",
+	"block.frogson.naschja_door": "Naschja Door",
+	"block.frogson.naschja_slab": "Naschja Slab",
+	"block.frogson.naschja_plank_slab": "Naschja Plank Slab",
+	"block.frogson.naschja_stairs": "Naschja Stairs",
+	"block.frogson.naschja_plank_stairs": "Naschja Plank Stairs",
+	"block.frogson.naschja_trapdoor": "Naschja Trapdoor",
+
+		//mossenschon
+	"block.frogson.mossenschon_planks": "Mossenschon Planks",
+	"block.frogson.mossenschon_wood": "Mossenschon Wood",
+	"block.frogson.mossenschon_leaves": "Mossenschon Leaves",
+	"block.frogson.mossenschon_door": "Mossenschon Door",
+	"block.frogson.mossenschon_slab": "Mossenschon Slab",
+	"block.frogson.mossenschon_plank_slab": "Mossenschon Plank Slab",
+	"block.frogson.mossenschon_stairs": "Mossenschon Stairs",
+	"block.frogson.mossenschon_plank_stairs": "Mossenschon Plank Stairs",
+	"block.frogson.mossenschon_trapdoor": "Mossenschon Trapdoor",
+
+		//kestektla
+	"block.frogson.kestektla_planks": "Kestektla Planks",
+	"block.frogson.kestektla_wood": "Kestektla Wood",
+	"block.frogson.kestektla_leaves": "Kestektla Leaves",
+	"block.frogson.kestektla_door": "Kestektla Door",
+	"block.frogson.kestektla_slab": "Kestektla Slab",
+	"block.frogson.kestektla_plank_slab": "Kestektla Plank Slab",
+	"block.frogson.kestektla_stairs": "Kestektla Stairs",
+	"block.frogson.kestektla_plank_stairs": "Kestektla Plank Stairs",
+	"block.frogson.kestektla_trapdoor": "Kestektla Trapdoor",
+
+		//flonsagal
+	"block.frogson.flonsagal_planks": "Flonsagal Planks",
+	"block.frogson.flonsagal_wood": "Flonsagal Wood",
+	"block.frogson.flonsagal_leaves": "Flonsagal Leaves",
+	"block.frogson.flonsagal_door": "Flonsagal Door",
+	"block.frogson.flonsagal_slab": "Flonsagal Slab",
+	"block.frogson.flonsagal_plank_slab": "Flonsagal Plank Slab",
+	"block.frogson.flonsagal_stairs": "Flonsagal Stairs",
+	"block.frogson.flonsagal_plank_stairs": "Flonsagal Plank Stairs",
+	"block.frogson.flonsagal_trapdoor": "Flonsagal Trapdoor",
+
+	//rocks
+		//misc
+	"block.frogson.llanite_block": "Llanite Block",
+	"block.frogson.andesite_periwinkle_block": "Andesite Periwinkle Block",
+	"block.frogson.slate_block": "Slate Block",
+	"block.frogson.skarn_block": "Skarn Block",
+	"block.frogson.perodotite_block": "Perodotite Block",
+	"block.frogson.norite_block": "Norite Block",
+	"block.frogson.komatiite_block": "Komatiite Block",
+	"block.frogson.leaverite_block": "Leaverite Block",
+	"block.frogson.serpentinite_block": "Serpentinite Block",
+
+		//cloudstone
+	"block.frogson.cloudstone": "Cloudstone",
+	"block.frogson.cobblecloudstone": "Cobblecloudstone",
+	"block.frogson.cloudstone_bricks": "Cloudstone Bricks",
+
+		//greask
+	"block.frogson.greask_block": "Greask Block",
+	"block.frogson.polished_greask": "Polished Greask",
+	"block.frogson.cut_polished_greask": "Cut Polished Greask",
+	"block.frogson.polished_greask_pillar": "Polished Greask Pillar",
+	"block.frogson.small_greask_bricks": "Small Greask Bricks",
+	"block.frogson.greaskot_bricks": "Greaskot Bricks",
+	"block.frogson.greaskotin_bricks": "Greaskotin Bricks",
+	"block.frogson.medium_greask_bricks": "Medium Greask Bricks",
+	"block.frogson.large_greask_bricks": "Large Greask Bricks",
+
+		//scheelch
+			//plain
+	"block.frogson.scheelch": "Scheelch",
+	"block.frogson.smooth_scheelch": "Smooth Scheelch",
+	"block.frogson.scheelch_tile": "Scheelch Tile",
+	"block.frogson.scheelch_tiles": "Scheelch Tiles",
+
+			//black
+	"block.frogson.black_scheelch": "Black Scheelch",
+	"block.frogson.black_scheelch_tile": "Black Scheelch Tile",
+	"block.frogson.black_scheelch_tiles": "Black Scheelch Tiles",
+
+			//blue
+	"block.frogson.blue_scheelch": "Blue Scheelch",
+	"block.frogson.blue_scheelch_tile": "Blue Scheelch Tile",
+	"block.frogson.blue_scheelch_tiles": "Blue Scheelch Tiles",
+
+			//brown
+	"block.frogson.brown_scheelch": "Brown Scheelch",
+	"block.frogson.brown_scheelch_tile": "Brown Scheelch Tile",
+	"block.frogson.brown_scheelch_tiles": "Brown Scheelch Tiles",
+
+			//cactus
+	"block.frogson.cactus_scheelch": "Cactus Scheelch",
+	"block.frogson.cactus_scheelch_tile": "Cactus Scheelch Tile",
+	"block.frogson.cactus_scheelch_tiles": "Cactus Scheelch Tiles",
+
+			//cyan
+	"block.frogson.cyan_scheelch": "Cyan Scheelch",
+	"block.frogson.cyan_scheelch_tile": "Cyan Scheelch Tile",
+	"block.frogson.cyan_scheelch_tiles": "Cyan Scheelch Tiles",
+
+			//gray
+	"block.frogson.gray_scheelch": "Gray Scheelch",
+	"block.frogson.gray_scheelch_tile": "Gray Scheelch Tile",
+	"block.frogson.gray_scheelch_tiles": "Gray Scheelch Tiles",
+
+			//green
+	"block.frogson.green_scheelch": "Green Scheelch",
+	"block.frogson.green_scheelch_tile": "Green Scheelch Tile",
+	"block.frogson.green_scheelch_tiles": "Green Scheelch Tiles",
+
+			//light blue
+	"block.frogson.light_blue_scheelch": "Light Blue Scheelch",
+	"block.frogson.light_blue_scheelch_tile": "Light Blue Scheelch Tile",
+	"block.frogson.light_blue_scheelch_tiles": "Light Blue Scheelch Tiles",
+
+			//light gray
+	"block.frogson.light_gray_scheelch": "Light Gray Scheelch",
+	"block.frogson.light_gray_scheelch_tile": "Light Gray Scheelch Tile",
+	"block.frogson.light_gray_scheelch_tiles": "Light Gray Scheelch Tiles",
+
+			//lime
+	"block.frogson.lime_scheelch": "Lime Scheelch",
+	"block.frogson.lime_scheelch_tile": "Lime Scheelch Tile",
+	"block.frogson.lime_scheelch_tiles": "Lime Scheelch Tiles",
+
+			//magenta
+	"block.frogson.magenta_scheelch": "Magenta Scheelch",
+	"block.frogson.magenta_scheelch_tile": "Magenta Scheelch Tile",
+	"block.frogson.magenta_scheelch_tiles": "Magenta Scheelch Tiles",
+
+			//orange
+	"block.frogson.orange_scheelch": "Orange Scheelch",
+	"block.frogson.orange_scheelch_tile": "Orange Scheelch Tile",
+	"block.frogson.orange_scheelch_tiles": "Orange Scheelch Tiles",
+
+			//pink
+	"block.frogson.pink_scheelch": "Pink Scheelch",
+	"block.frogson.pink_scheelch_tile": "Pink Scheelch Tile",
+	"block.frogson.pink_scheelch_tiles": "Pink Scheelch Tiles",
+
+			//purple
+	"block.frogson.purple_scheelch": "Purple Scheelch",
+	"block.frogson.purple_scheelch_tile": "Purple Scheelch Tile",
+	"block.frogson.purple_scheelch_tiles": "Purple Scheelch Tiles",
+
+			//red
+	"block.frogson.red_scheelch": "Red Scheelch",
+	"block.frogson.red_scheelch_tile": "Red Scheelch Tile",
+	"block.frogson.red_scheelch_tiles": "Red Scheelch Tiles",
+
+			//white
+	"block.frogson.white_scheelch": "White Scheelch",
+	"block.frogson.white_scheelch_tile": "White Scheelch Tile",
+	"block.frogson.white_scheelch_tiles": "White Scheelch Tiles",
+
+			//yellow
+	"block.frogson.yellow_scheelch": "Yellow Scheelch",
+	"block.frogson.yellow_scheelch_tile": "Yellow Scheelch Tile",
+	"block.frogson.yellow_scheelch_tiles": "Yellow Scheelch Tiles",
+
+	//raw metal blocks
+	"block.frogson.raw_rainbow_iron_block": "Raw Rainbow Iron Block",
+	"block.frogson.raw_endenskial_block": "Raw Endenskial Block",
+	"block.frogson.raw_steel_block": "Raw Steel Block",
+	"block.frogson.raw_zirconium_block": "Raw Zirconium Block",
+	"block.frogson.raw_molybdenum_block": "Raw Molybdenum Block",
+	"block.frogson.raw_aluminium_block": "Raw Aluminium Block",
+	"block.frogson.raw_titanium_block": "Raw Titanium Block",
+	"block.frogson.raw_chromium_block": "Raw Chromium Block",
+	"block.frogson.raw_vanadium_block": "Raw Vanadium Block",
+	"block.frogson.raw_beryllium_block": "Raw Beryllium Block",
+
+	//metal
+	"block.frogson.rainbow_iron_block": "Rainbow Iron Block",
+	"block.frogson.endenskial_block": "Endenskial Block",
+	"block.frogson.endlieskindael_block": "Endlieskindael Block",
+	"block.frogson.quantendium_block": "Quantendium Block",
+	"block.frogson.tentilimuneliesk_block": "Tentilimuneliesk Block",
+	"block.frogson.steel_block": "Steel Block",
+	"block.frogson.zirconium_block": "Zirconium Block",
+	"block.frogson.molybdenum_block": "Molybdenum Block",
+	"block.frogson.aluminium_block": "Aluminium Block",
+	"block.frogson.titanium_block": "Titanium Block",
+	"block.frogson.chromium_block": "Chromium Block",
+	"block.frogson.vanadium_block": "Vanadium Block",
+	"block.frogson.beryllium_block": "Beryllium Block",
+
+	//mineral
+	"block.frogson.obsidian_rose": "Obsidian Rose",
+	"block.frogson.malachite_block": "Malachite Block",
+	"block.frogson.rose_quartz_block": "Rose Quartz Block",
+	"block.frogson.malachite_rose_block": "Malachite Rose Block",
+	"block.frogson.amethyst_block": "Amethyst Block",
+	"block.frogson.aquafeldmarine_block": "Aquafeldmarine Block",
+	"block.frogson.apatite_block": "Apatite Block",
+	"block.frogson.feldspar_block": "Feldspar Block",
+	"block.frogson.brookite_block": "Brookite Block",
+	"block.frogson.rutile_block": "Rutile Block",
+	"block.frogson.sapphire_block": "Sapphire Block",
+	"block.frogson.ruby_block": "Ruby Block",
+	"block.frogson.corundum_block": "Corundum Block",
+	"block.frogson.topaz_block": "Topaz Block",
+	"block.frogson.pseudobrookite_block": "PseudoBrookite Block",
+	"block.frogson.orthoclase_block": "Orthoclase Block",
+	"block.frogson.morganite_block": "Morganite Block",
+	"block.frogson.benitoite_block": "Benitoite Block",
+	"block.frogson.aquamarine_block": "Aquamarine Block",
+	"block.frogson.black_opal_block": "Black Opal Block",
+	"block.frogson.white_opal_block": "White Opal Block",
+	"block.frogson.hyalite_block": "Hyalite Block",
+	"block.frogson.tanzanite_block": "Tanzanite Block",
+	"block.frogson.hematite_block": "Hematite Block",
+
+	//ore
+		//metal
+	"block.frogson.rainbow_iron_ore": "Rainbow Iron Ore",
+	"block.frogson.endenskial_ore": "Endenskial Ore",
+	"block.frogson.steel_ore": "Steel Ore",
+	"block.frogson.zirconium_ore": "Zirconium Ore",
+	"block.frogson.molybdenum_ore": "Molybdenum Ore",
+	"block.frogson.aluminium_ore": "Aluminium Ore",
+	"block.frogson.titanium_ore": "Titanium Ore",
+	"block.frogson.chromium_ore": "Chromium Ore",
+	"block.frogson.vanadium_ore": "Vanadium Ore",
+	"block.frogson.beryllium_ore": "Beryllium Ore",
+
+		//mineral
+	"block.frogson.rose_quartz_ore": "Rose Quartz Ore",
+	"block.frogson.amethyst_ore": "Amethyst Ore",
+	"block.frogson.malachite_ore": "Malachite Ore",
+	"block.frogson.aquafeldmarine_ore": "Aquafeldmarine Ore",
+	"block.frogson.apatite_ore": "Apatite Ore",
+	"block.frogson.feldspar_ore": "Feldspar Ore",
+	"block.frogson.brookite_ore": "Brookite Ore",
+	"block.frogson.rutile_ore": "Rutile Ore",
+	"block.frogson.sapphire_ore": "Sapphire Ore",
+	"block.frogson.ruby_ore": "Ruby Ore",
+	"block.frogson.corundum_ore": "Corundum Ore",
+	"block.frogson.topaz_ore": "Topaz Ore",
+	"block.frogson.pseudobrookite_ore": "PseudoBrookite Ore",
+	"block.frogson.orthoclase_ore": "Orthoclase Ore",
+	"block.frogson.morganite_ore": "Morganite Ore",
+	"block.frogson.benitoite_ore": "Benitoite Ore",
+	"block.frogson.aquamarine_ore": "Aquamarine Ore",
+	"block.frogson.black_opal_ore": "Black Opal Ore",
+	"block.frogson.white_opal_ore": "White Opal Ore",
+	"block.frogson.hyalite_ore": "Hyalite Ore",
+	"block.frogson.tanzanite_ore": "Tanzanite Ore",
+	"block.frogson.hematite_ore": "Hematite Ore",
+
+	//decorations
+	"block.frogson.table": "Table",
+	"block.frogson.book_stack": "Book Stack",
+	"block.frogson.left_open_desk": "Left Open Desk",
+	"block.frogson.middle_open_desk": "Middle Open Desk",
+	"block.frogson.right_open_desk": "Right Open Desk",
+	"block.frogson.decorated_pyramid": "Pyramid",
+	"block.frogson.decorated_castle": "Castle",
+	"block.frogson.bedframe": "Bedframe",
+
+	//painteds
+	"block.frogson.painted_person": "Person",
+	"block.frogson.painted_distanced_layers": "Distanced Layers",
+	"block.frogson.painted_cloud_light": "Cloud Light",
+	"block.frogson.painted_odd_fog": "Odd Fog",
+	"block.frogson.painted_shape_colors": "Shape Colors",
+	"block.frogson.painted_bumpy_winds": "Bumpy Winds",
+	"block.frogson.painted_butterfly_in_the_sky": "Butterfly In The Sky",
+
+	//miscellaneous
+	"block.frogson.packed_shells_block": "Packed Shells Block",
+	"block.frogson.obfustoc": "Obfustoc"
+
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:feldspar"
+    }
+  },
+  "result": {
+    "item": "frogson:feldspar_block"
+  }
+}

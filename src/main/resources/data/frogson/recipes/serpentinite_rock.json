@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:serpentinite_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:serpentinite_rock",
+    "count": 4
+  }
+}

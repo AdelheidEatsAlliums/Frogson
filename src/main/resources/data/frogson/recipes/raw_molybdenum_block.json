@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:raw_molybdenum"
+    }
+  },
+  "result": {
+    "item": "frogson:raw_molybdenum_block"
+  }
+}

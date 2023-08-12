@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "frogson:agelistem"
+    }
+  },
+  "pattern": [
+    "##",
+	"##"
+  ],
+  "result": {
+    "count": 4,
+    "item": "frogson:agelistem_wood"
+  },
+  "show_notification": true
+}

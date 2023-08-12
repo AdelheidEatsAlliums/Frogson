@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0":"frogson:item/rainbow_iron_sword"
+	}
+}

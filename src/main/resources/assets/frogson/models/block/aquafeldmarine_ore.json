@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "frogson:block/aquafeldmarine_ore_top",
+    "side": "frogson:block/aquafeldmarine_ore"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:raw_endenskial"
+    }
+  },
+  "result": {
+    "item": "frogson:raw_endenskial_block"
+  }
+}

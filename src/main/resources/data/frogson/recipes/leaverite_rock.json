@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:leaverite_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:leaverite_rock",
+    "count": 4
+  }
+}

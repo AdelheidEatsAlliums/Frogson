@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "!#!",
+    "#@#",
+    "!#!"
+  ],
+  "key":
+  {
+    "!": {
+      "item": "minecraft:snowball"
+    },
+    "@": {
+      "item": "minecraft:slime_ball"
+    },
+    "#": {
+      "item": "minecraft:fire_charge"
+    }
+  },
+  "result": {
+    "item": "frogson:greasknednum",
+    "count": 16
+  }
+}

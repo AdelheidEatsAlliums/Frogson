@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YAY",
+    "BBB"
+  ],
+  "key": {
+    "X": {
+      "item": "frogson:greasknednum"
+    },
+    "Y": {
+      "item": "minecraft:quartz"
+    },
+    "A": {
+      "item": "frogson:endenskial_orb"
+    },
+    "B": {
+      "item": "frogson:endenskial_ingot"
+    }
+  },
+  "result": {
+    "count": 3,
+    "item": "frogson:bloody_edelis_lavendar"
+  }
+}

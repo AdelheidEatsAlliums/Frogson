@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:apple",
+    "frogson:green_apple",
+    "frogson:yellow_apple"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "frogson:block/flonsagal_plank_slab"
+    },
+    "type=double": {
+      "model": "frogson:block/flonsagal_planks"
+    },
+    "type=top": {
+      "model": "frogson:block/flonsagal_plank_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "frogson:block/painted_bumpy_winds" },
+    "facing=south": { "model": "frogson:block/painted_bumpy_winds", "y":  180},
+    "facing=west": { "model": "frogson:block/painted_bumpy_winds", "y":  270},
+    "facing=east": { "model": "frogson:block/painted_bumpy_winds", "y":  90}
+  }
+}

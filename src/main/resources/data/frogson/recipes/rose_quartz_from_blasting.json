@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "frogson:rose_quartz_ore"
+  },
+  "result": "frogson:rose_quartz",
+  "experience": 1.0,
+  "cookingtime": 100
+}

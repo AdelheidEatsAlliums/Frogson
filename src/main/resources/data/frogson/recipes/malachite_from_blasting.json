@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "frogson:malachite_ore"
+  },
+  "result": "frogson:malachite",
+  "experience": 1.0,
+  "cookingtime": 100
+}

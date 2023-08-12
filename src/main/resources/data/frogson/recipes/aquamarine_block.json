@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:aquamarine"
+    }
+  },
+  "result": {
+    "item": "frogson:aquamarine_block"
+  }
+}

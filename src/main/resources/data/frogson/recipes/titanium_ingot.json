@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:titanium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "@@@",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:endlieskindael_ingot"
+    },
+    "@": {
+      "item": "frogson:greasknednum"
+    }
+  },
+  "result": {
+    "item": "frogson:quantendium_ingot",
+    "count": 3
+  }
+}

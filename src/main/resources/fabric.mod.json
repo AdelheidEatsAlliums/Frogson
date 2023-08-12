@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "frogson",
+	"version": "${version}",
+	"name": "Frogson",
+	"description": "A mod that adds more woods and ores for tools and armor.",
+	"authors": ["AdelheidEatsAlliums, Periwinkql"],
+	"contact": {
+		"repo": "https://github.com/AdelheidEatsAlliums/------"
+	},
+	"license": "All-Rights-Reserved",
+	"icon": "assets/frogson/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"net.adelheideatsalliums.frogson.FrogsonClient"
+		],
+		"main": [
+			"net.adelheideatsalliums.frogson.Frogson"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=${loader_version}",
+		"fabric": "*",
+		"minecraft": "${minecraft_version}"
+	}
+}

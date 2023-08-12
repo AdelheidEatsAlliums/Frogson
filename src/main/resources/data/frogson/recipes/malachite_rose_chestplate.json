@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "Y Y",
+    "X@X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "frogson:malachite_rose"
+    },
+    "@": {
+      "item": "frogson:tesskeltinial_eye"
+    },
+    "Y": {
+      "item": "frogson:quantendium_plate"
+    }
+  },
+  "result": {
+    "item": "frogson:malachite_rose_chestplate"
+  }
+}

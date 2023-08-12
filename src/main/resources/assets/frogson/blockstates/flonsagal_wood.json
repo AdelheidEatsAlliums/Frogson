@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "frogson:block/flonsagal_wood"
+      },
+      {
+        "model": "frogson:block/flonsagal_wood_mirrored"
+      },
+      {
+        "model": "frogson:block/flonsagal_wood",
+        "y": 180
+      },
+      {
+        "model": "frogson:block/flonsagal_wood_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

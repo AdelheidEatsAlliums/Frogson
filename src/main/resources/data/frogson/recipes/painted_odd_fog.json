@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Q ",
+    "W#E",
+    " R "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:purple_dye"
+    },
+    "W": {
+      "item": "minecraft:green_dye"
+    },
+    "#": {
+      "item": "frogson:canvas"
+    },
+    "E": {
+      "item": "minecraft:lime_dye"
+    },
+    "R": {
+      "item": "minecraft:magenta_dye"
+    }
+  },
+  "result": {
+    "item": "frogson:painted_odd_fog"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:polished_greask"
+    }
+  },
+  "result": {
+    "item": "frogson:cut_polished_greask",
+    "count": 8
+  }
+}

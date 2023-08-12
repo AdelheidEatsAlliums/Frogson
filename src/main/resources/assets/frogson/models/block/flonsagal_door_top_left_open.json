@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "textures": {
+    "bottom": "frogson:block/flonsagal_door_bottom",
+    "top": "frogson:block/flonsagal_door_top"
+  }
+}

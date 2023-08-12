@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YAY",
+    "BBB"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:clay_ball"
+    },
+    "Y": {
+      "item": "minecraft:quartz"
+    },
+    "A": {
+      "item": "frogson:andesite_periwinkle"
+    },
+    "B": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "count": 3,
+    "item": "frogson:deadynelos_crystals"
+  }
+}

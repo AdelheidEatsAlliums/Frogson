@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:raw_zirconium_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:raw_zirconium",
+    "count": 9
+  }
+}

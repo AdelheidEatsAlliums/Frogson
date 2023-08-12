@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "frogson:block/kestektla_planks",
+    "top": "frogson:block/kestektla_planks",
+    "side": "frogson:block/kestektla_planks"
+  }
+}

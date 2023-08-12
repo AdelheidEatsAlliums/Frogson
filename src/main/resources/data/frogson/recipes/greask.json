@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:greask_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:greask",
+    "count": 4
+  }
+}

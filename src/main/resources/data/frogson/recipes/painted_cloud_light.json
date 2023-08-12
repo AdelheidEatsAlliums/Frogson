@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Q ",
+    "W#E",
+    " R "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:cyan_dye"
+    },
+    "W": {
+      "item": "minecraft:lime_dye"
+    },
+    "#": {
+      "item": "frogson:canvas"
+    },
+    "E": {
+      "item": "minecraft:white_dye"
+    },
+    "R": {
+      "item": "minecraft:light_gray_dye"
+    }
+  },
+  "result": {
+    "item": "frogson:painted_cloud_light"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "values": [
+    "frogson:scheelch_tile",
+    "frogson:red_scheelch_tile",
+    "frogson:orange_scheelch_tile",
+    "frogson:yellow_scheelch_tile",
+    "frogson:lime_scheelch_tile",
+    "frogson:green_scheelch_tile",
+    "frogson:cyan_scheelch_tile",
+    "frogson:light_blue_scheelch_tile",
+    "frogson:blue_scheelch_tile",
+    "frogson:purple_scheelch_tile",
+    "frogson:magenta_scheelch_tile",
+    "frogson:pink_scheelch_tile",
+    "frogson:brown_scheelch_tile",
+    "frogson:white_scheelch_tile",
+    "frogson:light_gray_scheelch_tile",
+    "frogson:gray_scheelch_tile",
+    "frogson:black_scheelch_tile",
+    "frogson:cactus_scheelch_tile"
+  ]
+}

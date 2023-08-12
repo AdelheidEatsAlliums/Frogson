@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "frogson:block/naschja_slab"
+    },
+    "type=double": {
+      "model": "frogson:block/naschja_wood"
+    },
+    "type=top": {
+      "model": "frogson:block/naschja_slab_top"
+    }
+  }
+}

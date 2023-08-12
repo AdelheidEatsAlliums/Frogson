@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "frogson:entity/quantendium_shield_base_nopattern",
+		"particle": "block/dark_oak_planks"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 5],
+			"to": [14, 22, 6],
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 3.25, 5.75], "texture": "#2"},
+				"east": {"uv": [3.25, 0, 3.5, 5.75], "texture": "#2"},
+				"south": {"uv": [3.5, 0.25, 6.5, 5.75], "texture": "#2"},
+				"west": {"uv": [0.25, 0, 0.25, 5.75], "texture": "#2"},
+				"up": {"uv": [0.25, 0.25, 6.25, 0], "texture": "#2"},
+				"down": {"uv": [0.25, 0, 6.25, 0], "texture": "#2"}
+			}
+		},
+		{
+			"from": [7, 10, 6],
+			"to": [9, 16, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#2"},
+				"east": {"uv": [8.5, 1.5, 10, 3], "texture": "#2"},
+				"south": {"uv": [8, 0, 9, 1.5], "texture": "#2"},
+				"west": {"uv": [6.5, 1.5, 8, 3], "texture": "#2"},
+				"up": {"uv": [8, 0, 9, 1.5], "texture": "#2"},
+				"down": {"uv": [8, 0, 9, 1.5], "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"overrides": [
+		{"predicate": {"blocking": 1}, "model": "item/quantendium_shield_blocking"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [1, -7, 4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [1, -7, 4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -3],
+			"translation": [-0.75, -11, 3.75],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, -3],
+			"translation": [-0.75, -11, 3.75],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"ground": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [0, 145, 17],
+			"translation": [0, -1.75, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

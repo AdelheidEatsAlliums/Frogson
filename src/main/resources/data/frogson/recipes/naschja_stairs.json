@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_stairs",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "frogson:naschja_wood"
+    }
+  },
+  "result": {
+    "item": "frogson:naschja_stairs",
+    "count": 6
+  }
+}

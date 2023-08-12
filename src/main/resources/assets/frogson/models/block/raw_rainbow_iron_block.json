@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "frogson:block/raw_rainbow_iron_block"
+  }
+}

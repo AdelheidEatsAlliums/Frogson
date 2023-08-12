@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@!@",
+    "@#@",
+    "@!@"
+  ],
+  "key": 
+  {
+    "!": {
+      "item": "frogson:tentilimuneliesk_powder"
+    },
+    "@": {
+      "item": "frogson:greasknednum"
+    },
+    "#": {
+      "item": "frogson:endeliesk_crystal"
+    }
+  },
+  "result": {
+    "item": "frogson:endeliesk_pearl",
+    "count": 6
+  }
+}

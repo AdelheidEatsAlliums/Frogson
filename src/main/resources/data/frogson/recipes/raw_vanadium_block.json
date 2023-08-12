@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:raw_vanadium"
+    }
+  },
+  "result": {
+    "item": "frogson:raw_vanadium_block"
+  }
+}

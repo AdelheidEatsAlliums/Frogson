@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:malachite_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:malachite",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:andesite_periwinkle_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:andesite_periwinkle",
+    "count":4
+  }
+}

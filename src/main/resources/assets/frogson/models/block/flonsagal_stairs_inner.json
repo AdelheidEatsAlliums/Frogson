@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "frogson:block/flonsagal_wood",
+    "top": "frogson:block/flonsagal_wood",
+    "side": "frogson:block/flonsagal_wood"
+  }
+}

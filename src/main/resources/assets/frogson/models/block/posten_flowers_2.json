@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flowerbed_2",
+  "textures": {
+    "flowerbed": "frogson:block/posten_flowers",
+    "stem": "frogson:block/posten_flowers_stem"
+  }
+}

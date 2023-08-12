@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "frogson:raw_endenskial"
+  },
+  "result": "frogson:endenskial_ingot",
+  "experience": 5.0,
+  "cookingtime": 500
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "frogson:tentilimuneliesk_paper"
+  },
+  "result": "frogson:tentilimuneliesk_powder",
+  "experience": 1.0,
+  "cookingtime": 100
+}

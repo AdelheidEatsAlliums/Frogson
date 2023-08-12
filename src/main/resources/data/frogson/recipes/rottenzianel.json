@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YAY",
+    "BBB"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:ender_pearl"
+    },
+    "Y": {
+      "item": "frogson:rose_quartz"
+    },
+    "A": {
+      "item": "frogson:azaleas_crystal"
+    },
+    "B": {
+      "item": "frogson:endenskial_ingot"
+    }
+  },
+  "result": {
+    "count": 3,
+    "item": "frogson:rottenzianel"
+  }
+}

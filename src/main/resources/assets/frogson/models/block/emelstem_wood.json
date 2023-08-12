@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "frogson:block/emelstem_side",
+    "side": "frogson:block/emelstem_side"
+  }
+}

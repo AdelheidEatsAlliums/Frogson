@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "frogson:naschja_wood"
+    }
+  ],
+  "result": {
+    "item": "frogson:naschja_planks",
+    "count": 4
+  }
+}

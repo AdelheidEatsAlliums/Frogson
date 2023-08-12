@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "plank_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "frogson:naschja_planks"
+    }
+  },
+  "result": {
+    "item": "frogson:naschja_plank_slab",
+    "count": 6
+  }
+}

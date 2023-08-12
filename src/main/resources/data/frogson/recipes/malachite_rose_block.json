@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:malachite_rose"
+    }
+  },
+  "result": {
+    "item": "frogson:malachite_rose_block"
+  }
+}

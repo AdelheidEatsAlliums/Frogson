@@ -1,0 +1,12 @@
+{
+  "feature": "frogson:foltisnam_vegetation",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 36
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

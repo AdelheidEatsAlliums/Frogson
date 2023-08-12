@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YAY",
+    "BBB"
+  ],
+  "key": {
+    "X": {
+      "item": "frogson:greasknednum"
+    },
+    "Y": {
+      "item": "frogson:malachite"
+    },
+    "A": {
+      "item": "minecraft:ender_pearl"
+    },
+    "B": {
+      "item": "frogson:quantendium_ingot"
+    }
+  },
+  "result": {
+    "count": 3,
+    "item": "frogson:quante_malachite"
+  }
+}

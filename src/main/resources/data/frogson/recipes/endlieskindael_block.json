@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:endlieskindael_ingot"
+    }
+  },
+  "result": {
+    "item": "frogson:endlieskindael_block"
+  }
+}

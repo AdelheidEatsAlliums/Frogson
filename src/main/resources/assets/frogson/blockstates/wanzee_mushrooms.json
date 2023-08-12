@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "frogson:block/wanzee_mushrooms_1"
+      },
+      {
+        "model": "frogson:block/wanzee_mushrooms_2"
+      },
+      {
+        "model": "frogson:block/wanzee_mushrooms_3"
+      },
+      {
+        "model": "frogson:block/wanzee_mushrooms_4"
+      }
+    ]
+  }
+}

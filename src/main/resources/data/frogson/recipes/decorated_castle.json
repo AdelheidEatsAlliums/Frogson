@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "frogson:decorated_castle",
+    "count": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "net.adelheideatsalliums.frogson.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+	],
+	"client": [
+		"FrogsonMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "frogson:polished_greask"
+  },
+  "result": "frogson:greask_bricks",
+  "count": 2
+}

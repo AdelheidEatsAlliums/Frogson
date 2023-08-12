@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "frogson:aquafeldmarine"
+    },
+    {
+      "item": "frogson:greask"
+    },
+    {
+      "item": "frogson:greask"
+    },
+    {
+      "item": "frogson:greask"
+    }
+  ],
+  "result": {
+    "count": 12,
+    "item": "minecraft:gunpowder"
+  }
+}

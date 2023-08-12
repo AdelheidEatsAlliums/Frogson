@@ -1,0 +1,17 @@
+ {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:zirconium_ingot"
+    }
+  },
+  "result": {
+    "item": "frogson:zirconium_block"
+  }
+}

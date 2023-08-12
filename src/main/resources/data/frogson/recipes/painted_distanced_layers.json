@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Q ",
+    "W#E",
+    " R "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:red_dye"
+    },
+    "W": {
+      "item": "minecraft:yellow_dye"
+    },
+    "#": {
+      "item": "frogson:canvas"
+    },
+    "E": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "R": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "frogson:painted_distanced_layers"
+  }
+}

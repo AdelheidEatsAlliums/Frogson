@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:hyalite"
+    }
+  },
+  "result": {
+    "item": "frogson:hyalite_block"
+  }
+}

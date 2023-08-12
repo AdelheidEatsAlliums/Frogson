@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "frogson:raw_molybdenum"
+  },
+  "result": "frogson:molybdenum_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

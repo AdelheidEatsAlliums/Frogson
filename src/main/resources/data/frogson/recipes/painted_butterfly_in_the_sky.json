@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Q ",
+    "W#E",
+    " R "
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:brown_dye"
+    },
+    "W": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "#": {
+      "item": "frogson:canvas"
+    },
+    "E": {
+      "item": "minecraft:white_dye"
+    },
+    "R": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "frogson:painted_butterfly_in_the_sky"
+  }
+}

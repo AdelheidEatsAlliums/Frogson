@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "frogson:foltisnam_carpet"
+    },
+    "X": {
+      "item": "frogson:olzhanz"
+    }
+  },
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "result": {
+    "item": "frogson:foltisnam_block"
+  },
+  "show_notification": true
+}

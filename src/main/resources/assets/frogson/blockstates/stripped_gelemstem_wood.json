@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "frogson:block/stripped_gelemstem_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "frogson:block/stripped_gelemstem_wood"
+    },
+    "axis=z": {
+      "model": "frogson:block/stripped_gelemstem_wood_horizontal",
+      "x": 90
+    }
+  }
+}

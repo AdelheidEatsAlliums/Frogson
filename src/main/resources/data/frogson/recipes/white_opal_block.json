@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:white_opal"
+    }
+  },
+  "result": {
+    "item": "frogson:white_opal_block"
+  }
+}

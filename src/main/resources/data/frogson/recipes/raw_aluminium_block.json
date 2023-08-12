@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:raw_aluminium"
+    }
+  },
+  "result": {
+    "item": "frogson:raw_aluminium_block"
+  }
+}

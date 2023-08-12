@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:sapphire",
+    "count": 9
+  }
+}

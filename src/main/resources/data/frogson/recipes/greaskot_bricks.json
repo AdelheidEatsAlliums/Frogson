@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "frogson:small_greask_bricks"
+  },
+  "result": "frogson:greaskot_bricks",
+  "cookingtime": 100
+}

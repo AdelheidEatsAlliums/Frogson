@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:rose_quartz"
+    }
+  },
+  "result": {
+    "item": "frogson:rose_quartz_block"
+  }
+}

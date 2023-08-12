@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "frogson:block/canvas" },
+    "facing=south": { "model": "frogson:block/canvas", "y":  180},
+    "facing=west": { "model": "frogson:block/canvas", "y":  270},
+    "facing=east": { "model": "frogson:block/canvas", "y":  90}
+  }
+}

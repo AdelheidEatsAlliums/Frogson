@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "frogson:gelemstem_wood"
+    }
+  ],
+  "result": {
+    "item": "frogson:gelemstem_planks",
+    "count": 4
+  }
+}

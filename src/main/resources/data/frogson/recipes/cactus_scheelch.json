@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "colored_scheelch",
+  "key": {
+    "#": {
+      "item": "frogson:smooth_scheelch"
+    },
+    "X": {
+      "item": "minecraft:cactus"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "frogson:cactus_scheelch"
+  },
+  "show_notification": true
+}

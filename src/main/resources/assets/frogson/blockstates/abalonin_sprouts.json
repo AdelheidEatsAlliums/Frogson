@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "frogson:block/abalonin_sprouts"
+      },
+      {
+        "model": "frogson:block/abalonin_sprouts",
+        "y": 90
+      },
+      {
+        "model": "frogson:block/abalonin_sprouts",
+        "y": 180
+      },
+      {
+        "model": "frogson:block/abalonin_sprouts",
+        "y": 270
+      }
+    ]
+  }
+}

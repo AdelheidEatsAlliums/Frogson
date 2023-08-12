@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:raw_molybdenum_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:raw_molybdenum",
+    "count": 9
+  }
+}

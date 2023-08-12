@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "frogson:gelemstem"
+    }
+  },
+  "pattern": [
+    "##",
+	"##"
+  ],
+  "result": {
+    "count": 4,
+    "item": "frogson:gelemstem_wood"
+  },
+  "show_notification": true
+}

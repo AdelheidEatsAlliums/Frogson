@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 288,
+          "data": {
+            "Name": "frogson:foltisnam_carpet"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "frogson:agartuns_light"
+          }
+        },
+        {
+          "weight": 2,
+          "data": {
+            "Name": "frogson:felmond_light"
+          }
+        }
+      ]
+    }
+  }
+}

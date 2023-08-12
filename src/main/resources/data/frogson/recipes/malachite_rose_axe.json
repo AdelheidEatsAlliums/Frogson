@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " @"
+  ],
+  "key": {
+    "#": {
+      "item": "frogson:quantendium_rod"
+    },
+    "X": {
+      "item": "frogson:malachite_rose"
+    },
+    "@": {
+      "item": "frogson:tentilimuneliesk_ingot"
+    }
+  },
+  "result": {
+    "item": "frogson:malachite_rose_axe"
+  }
+}

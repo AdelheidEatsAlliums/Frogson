@@ -1,0 +1,367 @@
+{
+	//AmethystSet
+	"item.frogson.amethyst_sword": "Amethyst Sword",
+	"item.frogson.amethyst_pickaxe": "Amethyst Pickaxe",
+	"item.frogson.amethyst_axe": "Amethyst Axe",
+	"item.frogson.amethyst_shovel": "Amethyst Shovel",
+	"item.frogson.amethyst_hoe": "Amethyst Hoe",
+	"item.frogson.amethyst_helmet": "Amethyst Helmet",
+	"item.frogson.amethyst_chestplate": "Amethyst Chestplate",
+	"item.frogson.amethyst_leggings": "Amethyst Leggings",
+	"item.frogson.amethyst_boots": "Amethyst Boots",
+	
+	//RoseQuartzSet
+	"item.frogson.rose_quartz_sword": "Rose Quartz Sword",
+	"item.frogson.rose_quartz_pickaxe": "Rose Quartz Pickaxe",
+	"item.frogson.rose_quartz_axe": "Rose Quartz Axe",
+	"item.frogson.rose_quartz_shovel": "Rose Quartz Shovel",
+	"item.frogson.rose_quartz_hoe": "Rose Quartz Hoe",
+	"item.frogson.rose_quartz_helmet": "Rose Quartz Helmet",
+	"item.frogson.rose_quartz_chestplate": "Rose Quartz Chestplate",
+	"item.frogson.rose_quartz_leggings": "Rose Quartz Leggings",
+	"item.frogson.rose_quartz_boots": "Rose Quartz Boots",
+	
+	//RainbowIronSet
+	"item.frogson.rainbow_iron_sword": "Rainbow Iron Sword",
+	"item.frogson.rainbow_iron_pickaxe": "Rainbow Iron Pickaxe",
+	"item.frogson.rainbow_iron_axe": "Rainbow Iron Axe",
+	"item.frogson.rainbow_iron_shovel": "Rainbow Iron Shovel",
+	"item.frogson.rainbow_iron_hoe": "Rainbow Iron Hoe",
+	"item.frogson.rainbow_iron_helmet": "Rainbow Iron Helmet",
+	"item.frogson.rainbow_iron_chestplate": "Rainbow Iron Chestplate",
+	"item.frogson.rainbow_iron_leggings": "Rainbow Iron Leggings",
+	"item.frogson.rainbow_iron_boots": "Rainbow Iron Boots",
+	
+	//MalachiteSet
+	"item.frogson.malachite_sword": "Malachite Sword",
+	"item.frogson.malachite_pickaxe": "Malachite Pickaxe",
+	"item.frogson.malachite_axe": "Malachite Axe",
+	"item.frogson.malachite_shovel": "Malachite Shovel",
+	"item.frogson.malachite_hoe": "Malachite Hoe",
+	"item.frogson.malachite_helmet": "Malachite Helmet",
+	"item.frogson.malachite_chestplate": "Malachite Chestplate",
+	"item.frogson.malachite_leggings": "Malachite Leggings",
+	"item.frogson.malachite_boots": "Malachite Boots",
+	
+	//TentilimunelieskSet
+	"item.frogson.tentilimuneliesk_sword": "Tentilimuneliesk Sword",
+	"item.frogson.tentilimuneliesk_axe": "Tentilimuneliesk Axe",
+	"item.frogson.tentilimuneliesk_pickaxe": "Tentilimuneliesk Pickaxe",
+	"item.frogson.tentilimuneliesk_shovel": "Tentilimuneliesk Shovel",
+	"item.frogson.tentilimuneliesk_hoe": "Tentilimuneliesk Hoe",
+	"item.frogson.tentilimuneliesk_helmet": "Tentilimuneliesk Helmet",
+	"item.frogson.tentilimuneliesk_chestplate": "Tentilimuneliesk Chestplate",
+	"item.frogson.tentilimuneliesk_leggings": "Tentilimuneliesk Leggings",
+	"item.frogson.tentilimuneliesk_boots": "Tentilimuneliesk Boots",
+	
+	//MalachiteRoseSet
+	"item.frogson.malachite_rose_sword": "Malachite Rose Sword",
+	"item.frogson.malachite_rose_pickaxe": "Malachite Rose Pickaxe",
+	"item.frogson.malachite_rose_axe": "Malachite Rose Axe",
+	"item.frogson.malachite_rose_shovel": "Malachite Rose Shovel",
+	"item.frogson.malachite_rose_hoe": "Malachite Rose Hoe",
+	"item.frogson.malachite_rose_helmet": "Malachite Rose Helmet",
+	"item.frogson.malachite_rose_chestplate": "Malachite Rose Chestplate",
+	"item.frogson.malachite_rose_leggings": "Malachite Rose Leggings",
+	"item.frogson.malachite_rose_boots": "Malachite Rose Boots",
+	
+	//CloudstoneBlocks
+	"block.frogson.cloudstone": "Cloudstone",
+	"block.frogson.cobblecloudstone": "Cobblecloudstone",
+	"block.frogson.cloudstone_bricks": "Cloudstone Bricks",
+	"block.frogson.cobblecloudstone_bricks": "Cobblecloudstone Bricks",
+
+	//DecorationBlocks
+	"block.frogson.book_stack": "Book Stack",
+	"block.frogson.decorated_pyramid": "Pyramid",
+	"block.frogson.decorated_castle": "Castle",
+	
+	//PackedBlocks
+	"block.frogson.packed_shells_block": "Packed Shells Block",
+	
+	//ScheelchBlocks
+	"block.frogson.scheelch": "Scheelch",
+	"block.frogson.smooth_scheelch": "Smooth Scheelch",
+	"block.frogson.scheelch_tile": "Scheelch Tile",
+	"block.frogson.scheelch_tiles": "Scheelch Tiles",
+	
+	"block.frogson.red_scheelch": "Red Scheelch",
+	"block.frogson.red_scheelch_tile": "Red Scheelch Tile",
+	"block.frogson.red_scheelch_tiles": "Red Scheelch Tiles",
+	
+	"block.frogson.brown_scheelch": "Brown Scheelch",
+	"block.frogson.brown_scheelch_tile": "Brown Scheelch Tile",
+	"block.frogson.brown_scheelch_tiles": "Brown Scheelch Tiles",
+	
+	"block.frogson.orange_scheelch": "Orange Scheelch",
+	"block.frogson.orange_scheelch_tile": "Orange Scheelch Tile",
+	"block.frogson.orange_scheelch_tiles": "Orange Scheelch Tiles",
+	
+	"block.frogson.yellow_scheelch": "Yellow Scheelch",
+	"block.frogson.yellow_scheelch_tile": "Yellow Scheelch Tile",
+	"block.frogson.yellow_scheelch_tiles": "Yellow Scheelch Tiles",
+	
+	"block.frogson.lime_scheelch": "Lime Scheelch",
+	"block.frogson.lime_scheelch_tile": "Lime Scheelch Tile",
+	"block.frogson.lime_scheelch_tiles": "Lime Scheelch Tiles",
+	
+	"block.frogson.green_scheelch": "Green Scheelch",
+	"block.frogson.green_scheelch_tile": "Green Scheelch Tile",
+	"block.frogson.green_scheelch_tiles": "Green Scheelch Tiles",
+	
+	"block.frogson.cyan_scheelch": "Cyan Scheelch",
+	"block.frogson.cyan_scheelch_tile": "Cyan Scheelch Tile",
+	"block.frogson.cyan_scheelch_tiles": "Cyan Scheelch Tiles",
+	
+	"block.frogson.light_blue_scheelch": "Light Blue Scheelch",
+	"block.frogson.light_blue_scheelch_tile": "Light Blue Scheelch Tile",
+	"block.frogson.light_blue_scheelch_tiles": "Light Blue Scheelch Tiles",
+	
+	"block.frogson.blue_scheelch": "Blue Scheelch",
+	"block.frogson.blue_scheelch_tile": "Blue Scheelch Tile",
+	"block.frogson.blue_scheelch_tiles": "Blue Scheelch Tiles",
+	
+	"block.frogson.purple_scheelch": "Purple Scheelch",
+	"block.frogson.purple_scheelch_tile": "Purple Scheelch Tile",
+	"block.frogson.purple_scheelch_tiles": "Purple Scheelch Tiles",
+	
+	"block.frogson.magenta_scheelch": "Magenta Scheelch",
+	"block.frogson.magenta_scheelch_tile": "Magenta Scheelch Tile",
+	"block.frogson.magenta_scheelch_tiles": "Magenta Scheelch Tiles",
+	
+	"block.frogson.pink_scheelch": "Pink Scheelch",
+	"block.frogson.pink_scheelch_tile": "Pink Scheelch Tile",
+	"block.frogson.pink_scheelch_tiles": "Pink Scheelch Tiles",
+	
+	"block.frogson.white_scheelch": "White Scheelch",
+	"block.frogson.white_scheelch_tile": "White Scheelch Tile",
+	"block.frogson.white_scheelch_tiles": "White Scheelch Tiles",
+	
+	"block.frogson.light_gray_scheelch": "Light Gray Scheelch",
+	"block.frogson.light_gray_scheelch_tile": "Light Gray Scheelch Tile",
+	"block.frogson.light_gray_scheelch_tiles": "Light Gray Scheelch Tiles",
+	
+	"block.frogson.gray_scheelch": "Gray Scheelch",
+	"block.frogson.gray_scheelch_tile": "Gray Scheelch Tile",
+	"block.frogson.gray_scheelch_tiles": "Gray Scheelch Tiles",
+	
+	"block.frogson.black_scheelch": "Black Scheelch",
+	"block.frogson.black_scheelch_tile": "Black Scheelch Tile",
+	"block.frogson.black_scheelch_tiles": "Black Scheelch Tiles",
+	
+	"block.frogson.cactus_scheelch": "Cactus Scheelch",
+	"block.frogson.cactus_scheelch_tile": "Cactus Scheelch Tile",
+	"block.frogson.cactus_scheelch_tiles": "Cactus Scheelch Tiles",
+	
+	
+	//GreaskBlocks
+	"item.frogson.greask": "Greask",
+	"block.frogson.greask_block": "Greask Block",
+	"block.frogson.polished_greask": "Polished Greask",
+	"block.frogson.cut_polished_greask": "Cut Polished Greask",
+	"block.frogson.polished_greask_pillar": "Polished Greask Pillar",
+	"block.frogson.small_greask_bricks": "Small Greask Bricks",
+	"block.frogson.greaskot_bricks": "Greaskot Bricks",
+	"block.frogson.greaskotin_bricks": "Greaskotin Bricks",
+	"block.frogson.medium_greask_bricks": "Medium Greask Bricks",
+	"block.frogson.large_greask_bricks": "Large Greask Bricks",
+	
+	//Painteds
+	"block.frogson.canvas": "Canvas",
+	"block.frogson.painted_person": "Person",
+	"block.frogson.painted_distanced_layers": "Distanced Layers",
+	"block.frogson.painted_cloud_light": "Cloud Light",
+	"block.frogson.painted_odd_fog": "Odd Fog",
+	"block.frogson.painted_shape_colors": "Shape Colors",
+	"block.frogson.painted_bumpy_winds": "Bumpy Winds",
+	"block.frogson.painted_butterfly_in_the_sky": "Butterfly In The Sky",
+	
+	//WoodBlocks
+	"block.frogson.naschja_planks": "Naschja Planks",
+	"block.frogson.naschja_wood": "Naschja Wood",
+	"block.frogson.naschja_door": "Naschja Door",
+	"block.frogson.naschja_slab": "Naschja Slab",
+	"block.frogson.naschja_plank_slab": "Naschja Plank Slab",
+	"block.frogson.naschja_stairs": "Naschja Stairs",
+	"block.frogson.naschja_plank_stairs": "Naschja Plank Stairs",
+	"block.frogson.naschja_trapdoor": "Naschja Trapdoor",
+	
+	"block.frogson.mossenschon_planks": "Mossenschon Planks",
+	"block.frogson.mossenschon_wood": "Mossenschon Wood",
+	"block.frogson.mossenschon_door": "Mossenschon Door",
+	"block.frogson.mossenschon_slab": "Mossenschon Slab",
+	"block.frogson.mossenschon_plank_slab": "Mossenschon Plank Slab",
+	"block.frogson.mossenschon_stairs": "Mossenschon Stairs",
+	"block.frogson.mossenschon_plank_stairs": "Mossenschon Plank Stairs",
+	"block.frogson.mossenschon_trapdoor": "Mossenschon Trapdoor",
+	
+	"block.frogson.kestektla_planks": "Kestektla Planks",
+	"block.frogson.kestektla_wood": "Kestektla Wood",
+	"block.frogson.kestektla_door": "Kestektla Door",
+	"block.frogson.kestektla_slab": "Kestektla Slab",
+	"block.frogson.kestektla_plank_slab": "Kestektla Plank Slab",
+	"block.frogson.kestektla_stairs": "Kestektla Stairs",
+	"block.frogson.kestektla_plank_stairs": "Kestektla Plank Stairs",
+	"block.frogson.kestektla_trapdoor": "Kestektla Trapdoor",
+	
+	"block.frogson.flonsagal_planks": "Flonsagal Planks",
+	"block.frogson.flonsagal_wood": "Flonsagal Wood",
+	"block.frogson.flonsagal_door": "Flonsagal Door",
+	"block.frogson.flonsagal_slab": "Flonsagal Slab",
+	"block.frogson.flonsagal_plank_slab": "Flonsagal Plank Slab",
+	"block.frogson.flonsagal_stairs": "Flonsagal Stairs",
+	"block.frogson.flonsagal_plank_stairs": "Flonsagal Plank Stairs",
+	"block.frogson.flonsagal_trapdoor": "Flonsagal Trapdoor",
+	
+	//TonslanBlocks
+	"block.frogson.olzhanz": "Olzhanz",
+	"block.frogson.foltisnam_block": "Foltisnam Block",
+	"block.frogson.foltisnam_carpet": "Foltisnam Carpet",
+	"block.frogson.abalonin_sprouts": "Abalonin Sprouts",
+	"block.frogson.kitens_fern": "Kitens Fern",
+	"block.frogson.oletsek_fern": "Oletsek Fern",
+	"block.frogson.posten_flowers": "Posten Flowers",
+	"block.frogson.agartuns_light": "Agartuns Light",
+	"block.frogson.felmond_light": "Felmond Light",
+	"block.frogson.emelstem": "Emelstem",
+	"block.frogson.gelemstem": "Gelemstem",
+	"block.frogson.agelistem": "Agelistem",
+	"block.frogson.emelkem": "Emelkem",
+	"block.frogson.gelemkem": "Gelemkem",
+	"block.frogson.agelikem": "Agelikem",
+	"block.frogson.emelkem_carpet": "Emelkem Carpet",
+	"block.frogson.gelemkem_carpet": "Gelemkem Carpet",
+	"block.frogson.agelikem_carpet": "Agelikem Carpet",
+	"block.frogson.aquafeldmarine_ore": "Aquafelmarine Ore",
+	"block.frogson.aquafeldmarine_block": "Aquafelmarine Block",
+	"block.frogson.lenels_mushroom": "Lenels Mushroom",
+	"block.frogson.emdetis_mushroom": "Emdetis Mushroom",
+	"block.frogson.molzhenss_mushroom": "Molzhenss Mushroom",
+	"block.frogson.aqelionos_mushroom": "Aqelionos Mushroom",
+	"block.frogson.pokipan_mushroom": "Pokipan Mushroom",
+	"block.frogson.pomz_mushroom": "Pomz Mushroom",
+	"block.frogson.wanzee_mushrooms": "Wanzee Mushrooms",
+	"block.frogson.coarse_olzhanz": "Coarse Olzhanz",
+	"block.frogson.light_foltisnam_block": "Light Foltisnam Block",
+	"block.frogson.emelstem": "Emelstem",
+	"block.frogson.gelemstem": "Gelemstem",
+	"block.frogson.agelistem": "Agelistem",
+	"block.frogson.stripped_emelstem": "Stripped Emelstem",
+	"block.frogson.stripped_gelemstem": "Stripped Gelemstem",
+	"block.frogson.stripped_agelistem": "Stripped Agelistem",
+	"block.frogson.emelstem_wood": "Emelstem Wood",
+	"block.frogson.gelemstem_wood": "Gelemstem Wood",
+	"block.frogson.agelistem_wood": "Agelistem Wood",
+	"block.frogson.stripped_emelstem_wood": "Stripped Emelstem Wood",
+	"block.frogson.stripped_gelemstem_wood": "Stripped Gelemstem Wood",
+	"block.frogson.stripped_agelistem_wood": "Stripped Agelistem Wood",
+	"block.frogson.hollowed_emelstem": "Hollowed Emelstem",
+	"block.frogson.hollowed_gelemstem": "Hollowed Gelemstem",
+	"block.frogson.hollowed_agelistem": "Hollowed Agelistem",
+	"block.frogson.stripped_hollowed_emelstem": "Stripped Hollowed Emelstem",
+	"block.frogson.stripped_hollowed_gelemstem": "Stripped Hollowed Gelemstem",
+	"block.frogson.stripped_hollowed_agelistem": "Stripped Hollowed Agelistem",
+	"block.frogson.emelstem_planks": "Emelstem Planks",
+	"block.frogson.gelemstem_planks": "Gelemstem Planks",
+	"block.frogson.agelistem_planks": "Agelistem Planks",
+	"block.frogson.lemzu": "Lemzu",
+	
+	//TonslanItems
+	"item.frogson.aquafeldmarine": "Aquafelmarine",
+	
+	//FrogsonMaterials
+	"item.frogson.rose_quartz": "Rose Quartz",
+	"block.frogson.rose_quartz_ore": "Rose Quartz Ore",
+	"block.frogson.rose_quartz_block": "Rose Quartz Block",
+	
+	"item.frogson.malachite": "Malachite",
+	"block.frogson.malachite_ore": "Malachite Ore",
+	"block.frogson.malachite_block": "Malachite Block",
+	
+	"item.frogson.rainbow_iron_ingot": "Rainbow Iron Ingot",
+	"item.frogson.rainbow_iron_nugget": "Rainbow Nugget",
+	"item.frogson.raw_rainbow_iron": "Raw Rainbow Iron",
+	"block.frogson.rainbow_iron_ore": "Rainbow Iron Ore",
+	"block.frogson.rainbow_iron_block": "Rainbow Iron Block",
+	"block.frogson.raw_rainbow_iron_block": "Raw Rainbow Iron Block",
+	
+	"item.frogson.endenskial_ingot": "Endenskial Ingot",
+	"item.frogson.endenskial_nugget": "Endenskial Nugget",
+	"item.frogson.raw_endenskial": "Raw Endenskial",
+	"block.frogson.endenskial_ore": "Endenskial Ore",
+	"block.frogson.endenskial_block": "Endenskial Block",
+	"block.frogson.raw_endenskial_block": "Raw Endenskial Block",
+	
+	"block.frogson.obsidian_rose": "Obsidian Rose",
+	
+	"item.frogson.andesite_periwinkle": "Andesite Periwinkle",
+	"block.frogson.andesite_periwinkle_block": "Andesite Periwinkle Block",
+	
+	//FrogsonIngredients
+	"item.frogson.greasknednum": "Greasknednum",
+	
+	"item.frogson.endeliesk_crystal": "Endeliesk Crystal",
+	"item.frogson.endeliesk_pearl": "Endeliesk Pearl",
+	"item.frogson.endenskial_orb": "Endenskial Orb",
+	
+	"item.frogson.endlieskindael_ingot": "Endlieskindael Ingot",
+	"item.frogson.endlieskindael_nugget": "Endlieskindael Nugget",
+	"block.frogson.endlieskindael_block": "Endlieskindael Block",
+	
+	"item.frogson.quantendium_ingot": "Quantendium Ingot",
+	"item.frogson.quantendium_nugget": "Quantendium Nugget",
+	"item.frogson.quantendium_plate": "Quantendium Plate",
+	"item.frogson.quantendium_rod": "Quantendium Rod",
+	"block.frogson.quantendium_block": "Quantendium Block",
+	
+	"item.frogson.tentilimuneliesk_ingot": "Tentilimuneliesk Ingot",
+	"item.frogson.tentilimuneliesk_nugget": "Tentilimuneliesk Nugget",
+	"item.frogson.tentilimuneliesk_paper": "Tentilimuneliesk Paper",
+	"item.frogson.tentilimuneliesk_powder": "Tentilimuneliesk Powder",
+	"block.frogson.tentilimuneliesk_block": "Tentilimuneliesk Block",
+	
+	"item.frogson.malachite_rose": "Malachite Rose",
+	"block.frogson.malachite_rose_block": "Malachite Rose Block",
+	"item.frogson.tesskeltinial_eye": "Tesskeltinial Eye",
+	
+	"item.frogson.azaleas_crystal": "Azaleas Crystal",
+	"item.frogson.edelis_lavendar": "Edelis Lavendar",
+	"item.frogson.deadynelos_crystals": "Deadynelos Crystals",
+	"item.frogson.smooth_moss": "Smooth Moss",
+	"item.frogson.bloody_edelis_lavendar": "Bloody Edelis Lavendar",
+	"item.frogson.quante_malachite": "Quante Malachite",
+	"item.frogson.edelis_lilac": "Edelis Lilac",
+	"item.frogson.toperitis_pearl": "Toperitis Pearl",
+	"item.frogson.lotakeli_dust": "Lotakeli Dust",
+	"item.frogson.edelis_tear": "Edelis Tear",
+	"item.frogson.rottenzianel": "Rottenzianel",
+	"item.frogson.lapis_malachets": "Lapis Malachets",
+	"item.frogson.molten_blood_crystal": "Molten Blood Crystal",
+	
+	//FrogsonFoods
+	"item.frogson.poison_apple.tooltip_effect": "Poisonous",
+	"item.frogson.poison_apple": "Apple",
+	"item.frogson.frozen_apple.tooltip_effect": "Frozen",
+	"item.frogson.frozen_apple": "Apple",
+	"item.frogson.green_apple.tooltip_effect": "Lucky",
+	"item.frogson.green_apple": "Apple",
+	"item.frogson.yellow_apple.tooltip_effect": "Hastening",
+	"item.frogson.yellow_apple": "Apple",
+	"item.frogson.night_apple.tooltip_effect": "Nightly",
+	"item.frogson.night_apple": "Apple",
+	"item.frogson.xp_apple.tooltip_effect": "XP Consuming",
+	"item.frogson.xp_apple": "Apple",
+	"item.frogson.equine": "Equine",
+	"item.frogson.cooked_equine": "Cooked Equine",
+	
+	//Enchantments
+	"enchantment.frogson.poisoned_edge": "Poisoned Edge",
+	"enchantment.frogson.withered_edge": "Withered Edge",
+	"enchantment.frogson.frosted": "Frosted",
+	"enchantment.frogson.health_steal": "Health Steal",
+	
+	//Effects
+	"effect.frogson.frostbite": "Frostbite",
+	"effect.frogson.experienced": "Experienced",
+	"effect.frogson.inexperienced": "Inexperienced"
+}

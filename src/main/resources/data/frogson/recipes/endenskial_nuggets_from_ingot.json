@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:endenskial_ingot"
+    }
+  ],
+  "result": {
+    "item": "frogson:endenskial_nugget",
+    "count": 9
+  }
+}

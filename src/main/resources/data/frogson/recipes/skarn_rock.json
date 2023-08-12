@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:skarn_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:skarn_rock",
+    "count": 4
+  }
+}

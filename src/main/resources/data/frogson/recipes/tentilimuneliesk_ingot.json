@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@!@",
+    "!#!",
+    "@!@"
+  ],
+  "key": {
+    "#": {
+      "item": "frogson:quantendium_ingot"
+    },
+    "!": {
+      "item": "frogson:tentilimuneliesk_powder"
+    },
+    "@": {
+      "item": "frogson:greasknednum"
+    }
+  },
+  "result": {
+    "item": "frogson:tentilimuneliesk_ingot",
+    "count": 4
+  }
+}

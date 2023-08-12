@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "colored_scheelch",
+  "key": {
+    "#": {
+      "item": "frogson:smooth_scheelch"
+    },
+    "X": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "frogson:yellow_scheelch"
+  },
+  "show_notification": true
+}

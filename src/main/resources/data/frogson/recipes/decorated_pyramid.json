@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "minecraft:smooth_sandstone"
+    }
+  },
+  "result": {
+    "item": "frogson:decorated_pyramid",
+    "count": 6
+  }
+}

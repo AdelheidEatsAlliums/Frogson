@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left",
+  "textures": {
+    "bottom": "frogson:block/kestektla_door_bottom",
+    "top": "frogson:block/kestektla_door_top"
+  }
+}

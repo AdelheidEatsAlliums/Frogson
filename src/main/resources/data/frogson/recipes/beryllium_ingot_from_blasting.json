@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "frogson:raw_beryllium"
+  },
+  "result": "frogson:beryllium_ingot",
+  "experience": 1.0,
+  "cookingtime": 100
+}

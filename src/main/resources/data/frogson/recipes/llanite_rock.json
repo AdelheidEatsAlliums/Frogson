@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:llanite_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:llanite_rock",
+    "count": 4
+  }
+}

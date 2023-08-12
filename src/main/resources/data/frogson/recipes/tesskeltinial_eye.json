@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "!X!",
+    "#@#",
+    "!X!"
+  ],
+  "key":
+  {
+    "!": {
+      "item": "frogson:endenskial_ingot"
+    },
+    "@": {
+      "item": "frogson:endenskial_orb"
+    },
+    "#": {
+      "item": "frogson:tentilimuneliesk_powder"
+    },
+    "X": {
+      "item": "frogson:greasknednum"
+    }
+  },
+  "result": {
+    "item": "frogson:tesskeltinial_eye",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "frogson:block/foltisnam_hollowed_agelistem" },
+    "facing=south": { "model": "frogson:block/foltisnam_hollowed_agelistem", "y":  180},
+    "facing=west": { "model": "frogson:block/foltisnam_hollowed_agelistem", "y":  270},
+    "facing=east": { "model": "frogson:block/foltisnam_hollowed_agelistem", "y":  90}
+  }
+}

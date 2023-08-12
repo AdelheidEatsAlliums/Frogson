@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:raw_titanium"
+    }
+  },
+  "result": {
+    "item": "frogson:raw_titanium_block"
+  }
+}

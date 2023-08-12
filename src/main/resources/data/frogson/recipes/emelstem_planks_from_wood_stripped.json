@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "frogson:stripped_emelstem_wood"
+    }
+  ],
+  "result": {
+    "item": "frogson:emelstem_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:apple"
+    },
+    "Y": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "count": 8,
+    "item": "frogson:yellow_apple"
+  }
+}

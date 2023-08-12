@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "frogson:kestektla_wood"
+    }
+  ],
+  "result": {
+    "item": "frogson:kestektla_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "frogson:agelistem"
+    }
+  ],
+  "result": {
+    "item": "frogson:agelistem_planks",
+    "count": 4
+  }
+}

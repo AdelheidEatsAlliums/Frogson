@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "frogson:block/stripped_hollowed_gelemstem" },
+    "facing=south": { "model": "frogson:block/stripped_hollowed_gelemstem", "y":  180},
+    "facing=west": { "model": "frogson:block/stripped_hollowed_gelemstem", "y":  270},
+    "facing=east": { "model": "frogson:block/stripped_hollowed_gelemstem", "y":  90}
+  }
+}

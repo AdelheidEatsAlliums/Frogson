@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "scheelch_tile",
+  "key": {
+    "#": {
+      "item": "frogson:magenta_scheelch"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 4,
+    "item": "frogson:magenta_scheelch_tile"
+  },
+  "show_notification": true
+}

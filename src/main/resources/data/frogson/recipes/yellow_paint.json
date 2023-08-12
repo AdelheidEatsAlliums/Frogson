@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@@@",
+    "@#@",
+    "@!@"
+  ],
+  "key": {
+    "!": {
+      "item": "minecraft:bowl"
+    },
+    "@": {
+      "item": "minecraft:yellow_dye"
+    },
+    "#": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "frogson:yellow_paint"
+  },
+  "count": 8
+}

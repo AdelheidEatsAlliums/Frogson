@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "frogson:block/olzhanz",
+    "side": "frogson:block/foltisnam_block_side",
+    "top": "frogson:block/foltisnam_block"
+  }
+}

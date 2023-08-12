@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "frogson:block/olzhanz"
+      },
+      {
+        "model": "frogson:block/olzhanz",
+        "y": 90
+      },
+      {
+        "model": "frogson:block/olzhanz",
+        "y": 180
+      },
+      {
+        "model": "frogson:block/olzhanz",
+        "y": 270
+      }
+    ]
+  }
+}

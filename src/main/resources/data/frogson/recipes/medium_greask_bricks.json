@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:large_greask_bricks"
+    }
+  },
+  "result": {
+    "item": "frogson:medium_greask_bricks",
+    "count": 4
+  }
+}

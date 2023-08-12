@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "frogson:mossenschon_wood"
+    }
+  ],
+  "result": {
+    "item": "frogson:mossenschon_planks",
+    "count": 4
+  }
+}

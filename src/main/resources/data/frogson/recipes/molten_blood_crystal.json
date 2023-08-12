@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YAY",
+    "BBB"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:raw_gold"
+    },
+    "Y": {
+      "item": "frogson:bloody_edelis_lavendar"
+    },
+    "A": {
+      "item": "minecraft:netherrack"
+    },
+    "B": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "count": 3,
+    "item": "frogson:molten_blood_crystal"
+  }
+}

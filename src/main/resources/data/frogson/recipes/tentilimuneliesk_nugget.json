@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "frogson:tentilimuneliesk_ingot"
+    }
+  },
+  "result": {
+    "item": "frogson:tentilimuneliesk_nugget",
+    "count": 9
+  }
+}

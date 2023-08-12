@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "frogson:block/painted_shape_colors" },
+    "facing=south": { "model": "frogson:block/painted_shape_colors", "y":  180},
+    "facing=west": { "model": "frogson:block/painted_shape_colors", "y":  270},
+    "facing=east": { "model": "frogson:block/painted_shape_colors", "y":  90}
+  }
+}

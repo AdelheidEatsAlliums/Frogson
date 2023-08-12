@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YAY",
+    "BBB"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "Y": {
+      "item": "minecraft:quartz"
+    },
+    "A": {
+      "item": "minecraft:end_stone"
+    },
+    "B": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "count": 3,
+    "item": "frogson:edelis_lavendar"
+  }
+}

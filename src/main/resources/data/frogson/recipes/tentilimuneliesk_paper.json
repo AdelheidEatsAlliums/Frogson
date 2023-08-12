@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "!!!",
+    "@#@",
+    "@@@"
+  ],
+  "key": {
+    "!": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "item": "frogson:endeliesk_crystal"
+    },
+    "@": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "frogson:tentilimuneliesk_paper",
+    "count": 6
+  }
+}

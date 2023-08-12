@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":
+  {
+    "#": {
+      "item": "frogson:morganite"
+    }
+  },
+  "result": {
+    "item": "frogson:morganite_block"
+  }
+}

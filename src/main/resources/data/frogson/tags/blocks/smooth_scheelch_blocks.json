@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "values": [
+    "frogson:smooth_scheelch",
+    "frogson:red_scheelch",
+    "frogson:orange_scheelch",
+    "frogson:yellow_scheelch",
+    "frogson:lime_scheelch",
+    "frogson:green_scheelch",
+    "frogson:cyan_scheelch",
+    "frogson:light_blue_scheelch",
+    "frogson:blue_scheelch",
+    "frogson:purple_scheelch",
+    "frogson:magenta_scheelch",
+    "frogson:pink_scheelch",
+    "frogson:brown_scheelch",
+    "frogson:white_scheelch",
+    "frogson:light_gray_scheelch",
+    "frogson:gray_scheelch",
+    "frogson:black_scheelch",
+    "frogson:cactus_scheelch"
+  ]
+}

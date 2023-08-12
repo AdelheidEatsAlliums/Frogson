@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "frogson:raw_chromium_block"
+    }
+  ],
+  "result": {
+    "item": "frogson:raw_chromium",
+    "count": 9
+  }
+}

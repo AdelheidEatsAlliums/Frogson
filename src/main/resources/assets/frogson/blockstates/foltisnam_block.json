@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "frogson:block/foltisnam_block"
+      },
+      {
+        "model": "frogson:block/foltisnam_block",
+        "y": 90
+      },
+      {
+        "model": "frogson:block/foltisnam_block",
+        "y": 180
+      },
+      {
+        "model": "frogson:block/foltisnam_block",
+        "y": 270
+      }
+    ]
+  }
+}

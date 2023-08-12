@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "frogson:block/mossenschon_plank_slab"
+    },
+    "type=double": {
+      "model": "frogson:block/mossenschon_planks"
+    },
+    "type=top": {
+      "model": "frogson:block/mossenschon_plank_slab_top"
+    }
+  }
+}
