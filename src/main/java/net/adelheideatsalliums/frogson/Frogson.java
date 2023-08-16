@@ -2,6 +2,8 @@ package net.adelheideatsalliums.frogson;
 
 import net.adelheideatsalliums.frogson.ArmorAndTool.*;
 import net.adelheideatsalliums.frogson.Block.*;
+import net.adelheideatsalliums.frogson.Crops.CropBlocks;
+import net.adelheideatsalliums.frogson.Crops.CropItems;
 import net.adelheideatsalliums.frogson.Item.FrogsonFoods;
 import net.adelheideatsalliums.frogson.Item.FrogsonIngredients;
 import net.adelheideatsalliums.frogson.Item.TonslanItems;
@@ -41,6 +43,8 @@ public class Frogson implements ModInitializer {
         TonslanBlocks.registerTonslanBlocks();
         TonslanItems.registerTonslanItems();
         FrogsonFoods.registerFrogsonFoods();
+        CropItems.throwSeeds();
+        CropBlocks.plantSeeds();
 
     }
 }

@@ -2,6 +2,7 @@ package net.adelheideatsalliums.frogson.Registry;
 
 import net.adelheideatsalliums.frogson.ArmorAndTool.*;
 import net.adelheideatsalliums.frogson.Block.*;
+import net.adelheideatsalliums.frogson.Crops.CropItems;
 import net.adelheideatsalliums.frogson.Item.FrogsonFoods;
 import net.adelheideatsalliums.frogson.Item.FrogsonIngredients;
 import net.adelheideatsalliums.frogson.Item.TonslanItems;
@@ -207,7 +208,7 @@ public class ItemGroupPlacement {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_CHESTPLATE, RainbowIronSet.RAINBOW_IRON_LEGGINGS);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.COMBAT).register(content -> {content.addAfter(RainbowIronSet.RAINBOW_IRON_LEGGINGS, RainbowIronSet.RAINBOW_IRON_BOOTS);});
 
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(Items.NETHERITE_SHOVEL, TentilimunelieskSet.TENTILIMUNELIESK_SHOVEL);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(Items.NETHERITE_HOE, TentilimunelieskSet.TENTILIMUNELIESK_SHOVEL);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_SHOVEL, TentilimunelieskSet.TENTILIMUNELIESK_PICKAXE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_PICKAXE, TentilimunelieskSet.TENTILIMUNELIESK_AXE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(content -> {content.addAfter(TentilimunelieskSet.TENTILIMUNELIESK_AXE, TentilimunelieskSet.TENTILIMUNELIESK_HOE);});
@@ -346,5 +347,10 @@ public class ItemGroupPlacement {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(content -> {content.addAfter(FrogsonFoods.NIGHT_APPLE, FrogsonFoods.XP_APPLE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(content -> {content.addAfter(Items.COOKED_BEEF, FrogsonFoods.EQUINE);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(content -> {content.addAfter(FrogsonFoods.EQUINE, FrogsonFoods.COOKED_EQUINE);});
+
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.addAfter(Items.BEETROOT_SEEDS, CropItems.TOMATO_SEEDS);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.addAfter(CropItems.TOMATO_SEEDS, CropItems.TOMATO_PLANT);});
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(content -> {content.addAfter(Items.GLOW_BERRIES, FrogsonFoods.TOMATO);});
+
     }
 }

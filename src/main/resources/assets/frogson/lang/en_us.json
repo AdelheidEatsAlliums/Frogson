@@ -354,6 +354,20 @@
 	"item.frogson.equine": "Equine",
 	"item.frogson.cooked_equine": "Cooked Equine",
 	
+	//CropBlocks
+	"block.frogson.tomato_vine": "Tomato Vine",
+	"block.frogson.flowering_tomato_vine": "Flowering Tomato Vine",
+	"block.frogson.tomato_bush": "Tomato Bush",
+	"block.frogson.flowering_tomato_bush": "Flowering Tomato Bush",
+	
+	
+	//CropItems
+	"item.frogson.tomato": "Tomato",
+	"item.frogson.tomato_seeds": "Tomato Seeds",
+	"item.frogson.bamboo_stake": "Bamboo Stake",
+	"item.frogson.tomato_plant": "Tomato Plant",
+	
+	
 	//Enchantments
 	"enchantment.frogson.poisoned_edge": "Poisoned Edge",
 	"enchantment.frogson.withered_edge": "Withered Edge",
