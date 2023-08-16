@@ -223,9 +223,6 @@
 	"block.frogson.posten_flowers": "Posten Flowers",
 	"block.frogson.agartuns_light": "Agartuns Light",
 	"block.frogson.felmond_light": "Felmond Light",
-	"block.frogson.emelstem": "Emelstem",
-	"block.frogson.gelemstem": "Gelemstem",
-	"block.frogson.agelistem": "Agelistem",
 	"block.frogson.emelkem": "Emelkem",
 	"block.frogson.gelemkem": "Gelemkem",
 	"block.frogson.agelikem": "Agelikem",
@@ -355,17 +352,12 @@
 	"item.frogson.cooked_equine": "Cooked Equine",
 	
 	//CropBlocks
-	"block.frogson.tomato_vine": "Tomato Vine",
-	"block.frogson.flowering_tomato_vine": "Flowering Tomato Vine",
 	"block.frogson.tomato_bush": "Tomato Bush",
-	"block.frogson.flowering_tomato_bush": "Flowering Tomato Bush",
 	
 	
 	//CropItems
 	"item.frogson.tomato": "Tomato",
 	"item.frogson.tomato_seeds": "Tomato Seeds",
-	"item.frogson.bamboo_stake": "Bamboo Stake",
-	"item.frogson.tomato_plant": "Tomato Plant",
 	
 	
 	//Enchantments
