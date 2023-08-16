@@ -349,7 +349,6 @@ public class ItemGroupPlacement {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(content -> {content.addAfter(FrogsonFoods.EQUINE, FrogsonFoods.COOKED_EQUINE);});
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.addAfter(Items.BEETROOT_SEEDS, CropItems.TOMATO_SEEDS);});
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.NATURAL).register(content -> {content.addAfter(CropItems.TOMATO_SEEDS, CropItems.TOMATO_PLANT);});
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(content -> {content.addAfter(Items.GLOW_BERRIES, FrogsonFoods.TOMATO);});
 
     }
